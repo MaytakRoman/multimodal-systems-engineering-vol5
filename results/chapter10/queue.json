@@ -1,0 +1,165 @@
+{
+  "accepted": [
+    {
+      "arrival": 0,
+      "completion": 45,
+      "frame": 0,
+      "latency": 45
+    },
+    {
+      "arrival": 30,
+      "completion": 90,
+      "frame": 1,
+      "latency": 60
+    },
+    {
+      "arrival": 60,
+      "completion": 135,
+      "frame": 2,
+      "latency": 75
+    },
+    {
+      "arrival": 90,
+      "completion": 180,
+      "frame": 3,
+      "latency": 90
+    },
+    {
+      "arrival": 120,
+      "completion": 225,
+      "frame": 4,
+      "latency": 105
+    },
+    {
+      "arrival": 150,
+      "completion": 270,
+      "frame": 5,
+      "latency": 120
+    },
+    {
+      "arrival": 180,
+      "completion": 315,
+      "frame": 6,
+      "latency": 135
+    },
+    {
+      "arrival": 240,
+      "completion": 360,
+      "frame": 8,
+      "latency": 120
+    },
+    {
+      "arrival": 270,
+      "completion": 405,
+      "frame": 9,
+      "latency": 135
+    },
+    {
+      "arrival": 330,
+      "completion": 450,
+      "frame": 11,
+      "latency": 120
+    },
+    {
+      "arrival": 360,
+      "completion": 495,
+      "frame": 12,
+      "latency": 135
+    },
+    {
+      "arrival": 420,
+      "completion": 540,
+      "frame": 14,
+      "latency": 120
+    },
+    {
+      "arrival": 450,
+      "completion": 585,
+      "frame": 15,
+      "latency": 135
+    },
+    {
+      "arrival": 510,
+      "completion": 630,
+      "frame": 17,
+      "latency": 120
+    },
+    {
+      "arrival": 540,
+      "completion": 675,
+      "frame": 18,
+      "latency": 135
+    },
+    {
+      "arrival": 600,
+      "completion": 720,
+      "frame": 20,
+      "latency": 120
+    },
+    {
+      "arrival": 630,
+      "completion": 765,
+      "frame": 21,
+      "latency": 135
+    },
+    {
+      "arrival": 690,
+      "completion": 810,
+      "frame": 23,
+      "latency": 120
+    },
+    {
+      "arrival": 720,
+      "completion": 855,
+      "frame": 24,
+      "latency": 135
+    },
+    {
+      "arrival": 780,
+      "completion": 900,
+      "frame": 26,
+      "latency": 120
+    },
+    {
+      "arrival": 810,
+      "completion": 945,
+      "frame": 27,
+      "latency": 135
+    },
+    {
+      "arrival": 870,
+      "completion": 990,
+      "frame": 29,
+      "latency": 120
+    },
+    {
+      "arrival": 900,
+      "completion": 1035,
+      "frame": 30,
+      "latency": 135
+    },
+    {
+      "arrival": 960,
+      "completion": 1080,
+      "frame": 32,
+      "latency": 120
+    },
+    {
+      "arrival": 990,
+      "completion": 1125,
+      "frame": 33,
+      "latency": 135
+    }
+  ],
+  "dropped": [
+    7,
+    10,
+    13,
+    16,
+    19,
+    22,
+    25,
+    28,
+    31
+  ]
+}
