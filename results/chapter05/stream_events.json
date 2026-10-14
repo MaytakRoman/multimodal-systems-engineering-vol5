@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "status": "provisional"
+    },
+    {
+      "status": "provisional"
+    },
+    {
+      "status": "stale"
+    },
+    {
+      "revision": 2,
+      "status": "committed",
+      "text": "открой паспорт насоса 17",
+      "turn": 1
+    },
+    {
+      "status": "already_committed"
+    }
+  ],
+  "events": [
+    {
+      "final": false,
+      "revision": 0,
+      "text": "открой насос 7",
+      "turn": 1
+    },
+    {
+      "final": false,
+      "revision": 1,
+      "text": "открой паспорт насоса 17",
+      "turn": 1
+    },
+    {
+      "final": true,
+      "revision": 0,
+      "text": "открой насос 7",
+      "turn": 1
+    },
+    {
+      "final": true,
+      "revision": 2,
+      "text": "открой паспорт насоса 17",
+      "turn": 1
+    },
+    {
+      "final": true,
+      "revision": 3,
+      "text": "открой паспорт насоса 17",
+      "turn": 1
+    }
+  ]
+}

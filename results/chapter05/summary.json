@@ -1,0 +1,38 @@
+{
+  "actions": [
+    {
+      "status": "provisional"
+    },
+    {
+      "status": "provisional"
+    },
+    {
+      "status": "stale"
+    },
+    {
+      "revision": 2,
+      "status": "committed",
+      "text": "открой паспорт насоса 17",
+      "turn": 1
+    },
+    {
+      "status": "already_committed"
+    }
+  ],
+  "chapter": 5,
+  "data_origin": "synthetic",
+  "diarization": {
+    "confusion": 0,
+    "der": 0.5,
+    "false_alarm": 1,
+    "miss": 1,
+    "reference_speech_frames": 4
+  },
+  "duration_seconds": 3.0,
+  "limitation": "WAV contains tones, not speech. No ASR, TTS or voice-cloning model is executed.",
+  "model_scope": "educational numerical implementation; no pretrained weights",
+  "sample_rate": 16000,
+  "seed": 2026,
+  "vad_speech_frames": 95,
+  "wer": 0.25
+}
