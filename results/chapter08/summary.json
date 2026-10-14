@@ -1,0 +1,16 @@
+{
+  "audio_seconds": 2,
+  "chapter": 8,
+  "data_origin": "synthetic",
+  "limitation": "Affine state model, procedural frames/audio/mesh; no generative video/audio/3D foundation model is run.",
+  "mesh": {
+    "triangles": 722,
+    "vertices": 400
+  },
+  "model_scope": "educational numerical implementation; no pretrained weights",
+  "rollout_mse": 1.4044720052439476e-07,
+  "saved_frames": 11,
+  "seed": 2026,
+  "test_frames": 40,
+  "train_frames": 60
+}
