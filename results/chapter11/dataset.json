@@ -1,0 +1,3458 @@
+[
+  {
+    "id": "lot00_part00",
+    "image": "images/lot00_part00.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot00_part01",
+    "image": "images/lot00_part01.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot00_part02",
+    "image": "images/lot00_part02.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot00_part03",
+    "image": "images/lot00_part03.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot00_part04",
+    "image": "images/lot00_part04.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot00_part05",
+    "image": "images/lot00_part05.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot00_part06",
+    "image": "images/lot00_part06.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot00_part07",
+    "image": "images/lot00_part07.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot00_part08",
+    "image": "images/lot00_part08.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot00_part09",
+    "image": "images/lot00_part09.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot00_part10",
+    "image": "images/lot00_part10.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot00_part11",
+    "image": "images/lot00_part11.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part00",
+    "image": "images/lot01_part00.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot01_part01",
+    "image": "images/lot01_part01.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part02",
+    "image": "images/lot01_part02.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part03",
+    "image": "images/lot01_part03.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot01_part04",
+    "image": "images/lot01_part04.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part05",
+    "image": "images/lot01_part05.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part06",
+    "image": "images/lot01_part06.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot01_part07",
+    "image": "images/lot01_part07.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part08",
+    "image": "images/lot01_part08.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part09",
+    "image": "images/lot01_part09.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot01_part10",
+    "image": "images/lot01_part10.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part11",
+    "image": "images/lot01_part11.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part00",
+    "image": "images/lot02_part00.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot02_part01",
+    "image": "images/lot02_part01.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part02",
+    "image": "images/lot02_part02.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part03",
+    "image": "images/lot02_part03.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot02_part04",
+    "image": "images/lot02_part04.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part05",
+    "image": "images/lot02_part05.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part06",
+    "image": "images/lot02_part06.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot02_part07",
+    "image": "images/lot02_part07.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part08",
+    "image": "images/lot02_part08.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part09",
+    "image": "images/lot02_part09.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot02_part10",
+    "image": "images/lot02_part10.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part11",
+    "image": "images/lot02_part11.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part00",
+    "image": "images/lot03_part00.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot03_part01",
+    "image": "images/lot03_part01.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part02",
+    "image": "images/lot03_part02.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part03",
+    "image": "images/lot03_part03.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot03_part04",
+    "image": "images/lot03_part04.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part05",
+    "image": "images/lot03_part05.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part06",
+    "image": "images/lot03_part06.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot03_part07",
+    "image": "images/lot03_part07.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part08",
+    "image": "images/lot03_part08.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part09",
+    "image": "images/lot03_part09.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot03_part10",
+    "image": "images/lot03_part10.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part11",
+    "image": "images/lot03_part11.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part00",
+    "image": "images/lot04_part00.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot04_part01",
+    "image": "images/lot04_part01.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part02",
+    "image": "images/lot04_part02.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part03",
+    "image": "images/lot04_part03.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot04_part04",
+    "image": "images/lot04_part04.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part05",
+    "image": "images/lot04_part05.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part06",
+    "image": "images/lot04_part06.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot04_part07",
+    "image": "images/lot04_part07.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part08",
+    "image": "images/lot04_part08.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part09",
+    "image": "images/lot04_part09.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot04_part10",
+    "image": "images/lot04_part10.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part11",
+    "image": "images/lot04_part11.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part00",
+    "image": "images/lot05_part00.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot05_part01",
+    "image": "images/lot05_part01.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part02",
+    "image": "images/lot05_part02.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part03",
+    "image": "images/lot05_part03.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot05_part04",
+    "image": "images/lot05_part04.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part05",
+    "image": "images/lot05_part05.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part06",
+    "image": "images/lot05_part06.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot05_part07",
+    "image": "images/lot05_part07.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part08",
+    "image": "images/lot05_part08.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part09",
+    "image": "images/lot05_part09.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot05_part10",
+    "image": "images/lot05_part10.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part11",
+    "image": "images/lot05_part11.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part00",
+    "image": "images/lot06_part00.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot06_part01",
+    "image": "images/lot06_part01.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part02",
+    "image": "images/lot06_part02.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part03",
+    "image": "images/lot06_part03.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot06_part04",
+    "image": "images/lot06_part04.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part05",
+    "image": "images/lot06_part05.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part06",
+    "image": "images/lot06_part06.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot06_part07",
+    "image": "images/lot06_part07.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part08",
+    "image": "images/lot06_part08.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part09",
+    "image": "images/lot06_part09.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot06_part10",
+    "image": "images/lot06_part10.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part11",
+    "image": "images/lot06_part11.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part00",
+    "image": "images/lot07_part00.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot07_part01",
+    "image": "images/lot07_part01.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part02",
+    "image": "images/lot07_part02.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part03",
+    "image": "images/lot07_part03.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot07_part04",
+    "image": "images/lot07_part04.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part05",
+    "image": "images/lot07_part05.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part06",
+    "image": "images/lot07_part06.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot07_part07",
+    "image": "images/lot07_part07.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part08",
+    "image": "images/lot07_part08.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part09",
+    "image": "images/lot07_part09.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot07_part10",
+    "image": "images/lot07_part10.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part11",
+    "image": "images/lot07_part11.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part00",
+    "image": "images/lot08_part00.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot08_part01",
+    "image": "images/lot08_part01.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part02",
+    "image": "images/lot08_part02.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part03",
+    "image": "images/lot08_part03.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot08_part04",
+    "image": "images/lot08_part04.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part05",
+    "image": "images/lot08_part05.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part06",
+    "image": "images/lot08_part06.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot08_part07",
+    "image": "images/lot08_part07.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part08",
+    "image": "images/lot08_part08.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part09",
+    "image": "images/lot08_part09.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot08_part10",
+    "image": "images/lot08_part10.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part11",
+    "image": "images/lot08_part11.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part00",
+    "image": "images/lot09_part00.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot09_part01",
+    "image": "images/lot09_part01.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part02",
+    "image": "images/lot09_part02.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part03",
+    "image": "images/lot09_part03.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot09_part04",
+    "image": "images/lot09_part04.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part05",
+    "image": "images/lot09_part05.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part06",
+    "image": "images/lot09_part06.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot09_part07",
+    "image": "images/lot09_part07.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part08",
+    "image": "images/lot09_part08.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part09",
+    "image": "images/lot09_part09.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot09_part10",
+    "image": "images/lot09_part10.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part11",
+    "image": "images/lot09_part11.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part00",
+    "image": "images/lot10_part00.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot10_part01",
+    "image": "images/lot10_part01.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part02",
+    "image": "images/lot10_part02.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part03",
+    "image": "images/lot10_part03.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot10_part04",
+    "image": "images/lot10_part04.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part05",
+    "image": "images/lot10_part05.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part06",
+    "image": "images/lot10_part06.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot10_part07",
+    "image": "images/lot10_part07.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part08",
+    "image": "images/lot10_part08.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part09",
+    "image": "images/lot10_part09.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot10_part10",
+    "image": "images/lot10_part10.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part11",
+    "image": "images/lot10_part11.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part00",
+    "image": "images/lot11_part00.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot11_part01",
+    "image": "images/lot11_part01.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part02",
+    "image": "images/lot11_part02.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part03",
+    "image": "images/lot11_part03.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot11_part04",
+    "image": "images/lot11_part04.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part05",
+    "image": "images/lot11_part05.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part06",
+    "image": "images/lot11_part06.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot11_part07",
+    "image": "images/lot11_part07.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part08",
+    "image": "images/lot11_part08.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part09",
+    "image": "images/lot11_part09.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot11_part10",
+    "image": "images/lot11_part10.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part11",
+    "image": "images/lot11_part11.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part00",
+    "image": "images/lot12_part00.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot12_part01",
+    "image": "images/lot12_part01.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part02",
+    "image": "images/lot12_part02.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part03",
+    "image": "images/lot12_part03.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot12_part04",
+    "image": "images/lot12_part04.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part05",
+    "image": "images/lot12_part05.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part06",
+    "image": "images/lot12_part06.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot12_part07",
+    "image": "images/lot12_part07.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part08",
+    "image": "images/lot12_part08.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part09",
+    "image": "images/lot12_part09.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot12_part10",
+    "image": "images/lot12_part10.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part11",
+    "image": "images/lot12_part11.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part00",
+    "image": "images/lot13_part00.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot13_part01",
+    "image": "images/lot13_part01.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part02",
+    "image": "images/lot13_part02.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part03",
+    "image": "images/lot13_part03.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot13_part04",
+    "image": "images/lot13_part04.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part05",
+    "image": "images/lot13_part05.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part06",
+    "image": "images/lot13_part06.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot13_part07",
+    "image": "images/lot13_part07.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part08",
+    "image": "images/lot13_part08.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part09",
+    "image": "images/lot13_part09.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot13_part10",
+    "image": "images/lot13_part10.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part11",
+    "image": "images/lot13_part11.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part00",
+    "image": "images/lot14_part00.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot14_part01",
+    "image": "images/lot14_part01.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part02",
+    "image": "images/lot14_part02.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part03",
+    "image": "images/lot14_part03.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot14_part04",
+    "image": "images/lot14_part04.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part05",
+    "image": "images/lot14_part05.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part06",
+    "image": "images/lot14_part06.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot14_part07",
+    "image": "images/lot14_part07.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part08",
+    "image": "images/lot14_part08.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part09",
+    "image": "images/lot14_part09.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot14_part10",
+    "image": "images/lot14_part10.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part11",
+    "image": "images/lot14_part11.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part00",
+    "image": "images/lot15_part00.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot15_part01",
+    "image": "images/lot15_part01.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part02",
+    "image": "images/lot15_part02.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part03",
+    "image": "images/lot15_part03.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot15_part04",
+    "image": "images/lot15_part04.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part05",
+    "image": "images/lot15_part05.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part06",
+    "image": "images/lot15_part06.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot15_part07",
+    "image": "images/lot15_part07.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part08",
+    "image": "images/lot15_part08.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part09",
+    "image": "images/lot15_part09.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot15_part10",
+    "image": "images/lot15_part10.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part11",
+    "image": "images/lot15_part11.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part00",
+    "image": "images/lot16_part00.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot16_part01",
+    "image": "images/lot16_part01.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part02",
+    "image": "images/lot16_part02.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part03",
+    "image": "images/lot16_part03.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot16_part04",
+    "image": "images/lot16_part04.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part05",
+    "image": "images/lot16_part05.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part06",
+    "image": "images/lot16_part06.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot16_part07",
+    "image": "images/lot16_part07.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part08",
+    "image": "images/lot16_part08.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part09",
+    "image": "images/lot16_part09.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot16_part10",
+    "image": "images/lot16_part10.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part11",
+    "image": "images/lot16_part11.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part00",
+    "image": "images/lot17_part00.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part00.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot17_part01",
+    "image": "images/lot17_part01.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part01.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part02",
+    "image": "images/lot17_part02.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part02.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part03",
+    "image": "images/lot17_part03.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part03.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot17_part04",
+    "image": "images/lot17_part04.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part04.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part05",
+    "image": "images/lot17_part05.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part05.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part06",
+    "image": "images/lot17_part06.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part06.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot17_part07",
+    "image": "images/lot17_part07.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part07.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part08",
+    "image": "images/lot17_part08.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part08.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part09",
+    "image": "images/lot17_part09.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part09.pgm",
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot17_part10",
+    "image": "images/lot17_part10.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part10.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part11",
+    "image": "images/lot17_part11.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part11.pgm",
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot18_part00",
+    "image": "images/lot18_part00.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part00.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot18_part01",
+    "image": "images/lot18_part01.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part01.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot18_part02",
+    "image": "images/lot18_part02.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part02.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot18_part03",
+    "image": "images/lot18_part03.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part03.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot18_part04",
+    "image": "images/lot18_part04.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part04.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot18_part05",
+    "image": "images/lot18_part05.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part05.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot18_part06",
+    "image": "images/lot18_part06.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part06.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot18_part07",
+    "image": "images/lot18_part07.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part07.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot18_part08",
+    "image": "images/lot18_part08.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part08.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot18_part09",
+    "image": "images/lot18_part09.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part09.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot18_part10",
+    "image": "images/lot18_part10.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part10.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot18_part11",
+    "image": "images/lot18_part11.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part11.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part00",
+    "image": "images/lot19_part00.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part00.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot19_part01",
+    "image": "images/lot19_part01.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part01.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part02",
+    "image": "images/lot19_part02.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part02.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part03",
+    "image": "images/lot19_part03.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part03.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot19_part04",
+    "image": "images/lot19_part04.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part04.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part05",
+    "image": "images/lot19_part05.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part05.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part06",
+    "image": "images/lot19_part06.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part06.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot19_part07",
+    "image": "images/lot19_part07.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part07.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part08",
+    "image": "images/lot19_part08.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part08.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part09",
+    "image": "images/lot19_part09.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part09.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot19_part10",
+    "image": "images/lot19_part10.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part10.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part11",
+    "image": "images/lot19_part11.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part11.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part00",
+    "image": "images/lot20_part00.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part00.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot20_part01",
+    "image": "images/lot20_part01.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part01.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part02",
+    "image": "images/lot20_part02.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part02.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part03",
+    "image": "images/lot20_part03.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part03.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot20_part04",
+    "image": "images/lot20_part04.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part04.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part05",
+    "image": "images/lot20_part05.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part05.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part06",
+    "image": "images/lot20_part06.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part06.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot20_part07",
+    "image": "images/lot20_part07.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part07.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part08",
+    "image": "images/lot20_part08.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part08.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part09",
+    "image": "images/lot20_part09.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part09.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot20_part10",
+    "image": "images/lot20_part10.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part10.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part11",
+    "image": "images/lot20_part11.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part11.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part00",
+    "image": "images/lot21_part00.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part00.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot21_part01",
+    "image": "images/lot21_part01.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part01.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part02",
+    "image": "images/lot21_part02.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part02.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part03",
+    "image": "images/lot21_part03.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part03.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot21_part04",
+    "image": "images/lot21_part04.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part04.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part05",
+    "image": "images/lot21_part05.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part05.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part06",
+    "image": "images/lot21_part06.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part06.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot21_part07",
+    "image": "images/lot21_part07.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part07.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part08",
+    "image": "images/lot21_part08.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part08.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part09",
+    "image": "images/lot21_part09.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part09.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot21_part10",
+    "image": "images/lot21_part10.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part10.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part11",
+    "image": "images/lot21_part11.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part11.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part00",
+    "image": "images/lot22_part00.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part00.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot22_part01",
+    "image": "images/lot22_part01.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part01.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part02",
+    "image": "images/lot22_part02.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part02.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part03",
+    "image": "images/lot22_part03.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part03.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot22_part04",
+    "image": "images/lot22_part04.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part04.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part05",
+    "image": "images/lot22_part05.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part05.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part06",
+    "image": "images/lot22_part06.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part06.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot22_part07",
+    "image": "images/lot22_part07.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part07.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part08",
+    "image": "images/lot22_part08.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part08.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part09",
+    "image": "images/lot22_part09.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part09.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot22_part10",
+    "image": "images/lot22_part10.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part10.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part11",
+    "image": "images/lot22_part11.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part11.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part00",
+    "image": "images/lot23_part00.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part00.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot23_part01",
+    "image": "images/lot23_part01.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part01.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part02",
+    "image": "images/lot23_part02.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part02.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part03",
+    "image": "images/lot23_part03.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part03.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot23_part04",
+    "image": "images/lot23_part04.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part04.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part05",
+    "image": "images/lot23_part05.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part05.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part06",
+    "image": "images/lot23_part06.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part06.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot23_part07",
+    "image": "images/lot23_part07.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part07.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part08",
+    "image": "images/lot23_part08.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part08.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part09",
+    "image": "images/lot23_part09.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part09.pgm",
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot23_part10",
+    "image": "images/lot23_part10.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part10.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part11",
+    "image": "images/lot23_part11.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part11.pgm",
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot24_part00",
+    "image": "images/lot24_part00.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part00.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot24_part01",
+    "image": "images/lot24_part01.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part01.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot24_part02",
+    "image": "images/lot24_part02.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part02.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot24_part03",
+    "image": "images/lot24_part03.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part03.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot24_part04",
+    "image": "images/lot24_part04.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part04.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot24_part05",
+    "image": "images/lot24_part05.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part05.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot24_part06",
+    "image": "images/lot24_part06.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part06.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot24_part07",
+    "image": "images/lot24_part07.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part07.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot24_part08",
+    "image": "images/lot24_part08.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part08.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot24_part09",
+    "image": "images/lot24_part09.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part09.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot24_part10",
+    "image": "images/lot24_part10.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part10.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot24_part11",
+    "image": "images/lot24_part11.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part11.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part00",
+    "image": "images/lot25_part00.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part00.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot25_part01",
+    "image": "images/lot25_part01.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part01.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part02",
+    "image": "images/lot25_part02.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part02.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part03",
+    "image": "images/lot25_part03.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part03.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot25_part04",
+    "image": "images/lot25_part04.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part04.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part05",
+    "image": "images/lot25_part05.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part05.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part06",
+    "image": "images/lot25_part06.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part06.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot25_part07",
+    "image": "images/lot25_part07.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part07.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part08",
+    "image": "images/lot25_part08.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part08.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part09",
+    "image": "images/lot25_part09.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part09.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot25_part10",
+    "image": "images/lot25_part10.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part10.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part11",
+    "image": "images/lot25_part11.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part11.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part00",
+    "image": "images/lot26_part00.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part00.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot26_part01",
+    "image": "images/lot26_part01.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part01.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part02",
+    "image": "images/lot26_part02.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part02.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part03",
+    "image": "images/lot26_part03.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part03.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot26_part04",
+    "image": "images/lot26_part04.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part04.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part05",
+    "image": "images/lot26_part05.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part05.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part06",
+    "image": "images/lot26_part06.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part06.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot26_part07",
+    "image": "images/lot26_part07.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part07.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part08",
+    "image": "images/lot26_part08.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part08.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part09",
+    "image": "images/lot26_part09.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part09.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot26_part10",
+    "image": "images/lot26_part10.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part10.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part11",
+    "image": "images/lot26_part11.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part11.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part00",
+    "image": "images/lot27_part00.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part00.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot27_part01",
+    "image": "images/lot27_part01.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part01.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part02",
+    "image": "images/lot27_part02.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part02.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part03",
+    "image": "images/lot27_part03.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part03.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot27_part04",
+    "image": "images/lot27_part04.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part04.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part05",
+    "image": "images/lot27_part05.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part05.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part06",
+    "image": "images/lot27_part06.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part06.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot27_part07",
+    "image": "images/lot27_part07.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part07.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part08",
+    "image": "images/lot27_part08.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part08.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part09",
+    "image": "images/lot27_part09.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part09.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot27_part10",
+    "image": "images/lot27_part10.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part10.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part11",
+    "image": "images/lot27_part11.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part11.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part00",
+    "image": "images/lot28_part00.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part00.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot28_part01",
+    "image": "images/lot28_part01.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part01.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part02",
+    "image": "images/lot28_part02.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part02.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part03",
+    "image": "images/lot28_part03.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part03.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot28_part04",
+    "image": "images/lot28_part04.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part04.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part05",
+    "image": "images/lot28_part05.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part05.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part06",
+    "image": "images/lot28_part06.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part06.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot28_part07",
+    "image": "images/lot28_part07.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part07.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part08",
+    "image": "images/lot28_part08.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part08.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part09",
+    "image": "images/lot28_part09.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part09.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot28_part10",
+    "image": "images/lot28_part10.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part10.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part11",
+    "image": "images/lot28_part11.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part11.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part00",
+    "image": "images/lot29_part00.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part00.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot29_part01",
+    "image": "images/lot29_part01.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part01.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part02",
+    "image": "images/lot29_part02.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part02.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part03",
+    "image": "images/lot29_part03.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part03.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot29_part04",
+    "image": "images/lot29_part04.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part04.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part05",
+    "image": "images/lot29_part05.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part05.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part06",
+    "image": "images/lot29_part06.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part06.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot29_part07",
+    "image": "images/lot29_part07.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part07.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part08",
+    "image": "images/lot29_part08.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part08.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part09",
+    "image": "images/lot29_part09.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part09.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot29_part10",
+    "image": "images/lot29_part10.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part10.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part11",
+    "image": "images/lot29_part11.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part11.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part00",
+    "image": "images/lot30_part00.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part00.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot30_part01",
+    "image": "images/lot30_part01.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part01.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part02",
+    "image": "images/lot30_part02.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part02.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part03",
+    "image": "images/lot30_part03.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part03.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot30_part04",
+    "image": "images/lot30_part04.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part04.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part05",
+    "image": "images/lot30_part05.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part05.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part06",
+    "image": "images/lot30_part06.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part06.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot30_part07",
+    "image": "images/lot30_part07.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part07.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part08",
+    "image": "images/lot30_part08.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part08.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part09",
+    "image": "images/lot30_part09.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part09.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot30_part10",
+    "image": "images/lot30_part10.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part10.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part11",
+    "image": "images/lot30_part11.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part11.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part00",
+    "image": "images/lot31_part00.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part00.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot31_part01",
+    "image": "images/lot31_part01.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part01.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part02",
+    "image": "images/lot31_part02.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part02.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part03",
+    "image": "images/lot31_part03.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part03.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot31_part04",
+    "image": "images/lot31_part04.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part04.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part05",
+    "image": "images/lot31_part05.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part05.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part06",
+    "image": "images/lot31_part06.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part06.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot31_part07",
+    "image": "images/lot31_part07.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part07.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part08",
+    "image": "images/lot31_part08.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part08.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part09",
+    "image": "images/lot31_part09.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part09.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot31_part10",
+    "image": "images/lot31_part10.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part10.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part11",
+    "image": "images/lot31_part11.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part11.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part00",
+    "image": "images/lot32_part00.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part00.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot32_part01",
+    "image": "images/lot32_part01.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part01.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part02",
+    "image": "images/lot32_part02.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part02.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part03",
+    "image": "images/lot32_part03.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part03.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot32_part04",
+    "image": "images/lot32_part04.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part04.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part05",
+    "image": "images/lot32_part05.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part05.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part06",
+    "image": "images/lot32_part06.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part06.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot32_part07",
+    "image": "images/lot32_part07.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part07.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part08",
+    "image": "images/lot32_part08.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part08.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part09",
+    "image": "images/lot32_part09.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part09.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot32_part10",
+    "image": "images/lot32_part10.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part10.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part11",
+    "image": "images/lot32_part11.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part11.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part00",
+    "image": "images/lot33_part00.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part00.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot33_part01",
+    "image": "images/lot33_part01.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part01.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part02",
+    "image": "images/lot33_part02.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part02.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part03",
+    "image": "images/lot33_part03.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part03.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot33_part04",
+    "image": "images/lot33_part04.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part04.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part05",
+    "image": "images/lot33_part05.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part05.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part06",
+    "image": "images/lot33_part06.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part06.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot33_part07",
+    "image": "images/lot33_part07.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part07.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part08",
+    "image": "images/lot33_part08.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part08.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part09",
+    "image": "images/lot33_part09.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part09.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot33_part10",
+    "image": "images/lot33_part10.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part10.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part11",
+    "image": "images/lot33_part11.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part11.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part00",
+    "image": "images/lot34_part00.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part00.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot34_part01",
+    "image": "images/lot34_part01.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part01.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part02",
+    "image": "images/lot34_part02.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part02.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part03",
+    "image": "images/lot34_part03.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part03.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot34_part04",
+    "image": "images/lot34_part04.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part04.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part05",
+    "image": "images/lot34_part05.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part05.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part06",
+    "image": "images/lot34_part06.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part06.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot34_part07",
+    "image": "images/lot34_part07.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part07.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part08",
+    "image": "images/lot34_part08.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part08.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part09",
+    "image": "images/lot34_part09.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part09.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot34_part10",
+    "image": "images/lot34_part10.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part10.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part11",
+    "image": "images/lot34_part11.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part11.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part00",
+    "image": "images/lot35_part00.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part00.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot35_part01",
+    "image": "images/lot35_part01.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part01.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part02",
+    "image": "images/lot35_part02.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part02.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part03",
+    "image": "images/lot35_part03.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part03.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot35_part04",
+    "image": "images/lot35_part04.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part04.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part05",
+    "image": "images/lot35_part05.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part05.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part06",
+    "image": "images/lot35_part06.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part06.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot35_part07",
+    "image": "images/lot35_part07.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part07.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part08",
+    "image": "images/lot35_part08.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part08.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part09",
+    "image": "images/lot35_part09.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part09.pgm",
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot35_part10",
+    "image": "images/lot35_part10.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part10.pgm",
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part11",
+    "image": "images/lot35_part11.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part11.pgm",
+    "split": "test",
+    "target": 0
+  }
+]

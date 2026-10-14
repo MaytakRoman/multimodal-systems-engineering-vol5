@@ -1,0 +1,4322 @@
+[
+  {
+    "id": "lot00_part00",
+    "image": "images/lot00_part00.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part00.pgm",
+    "prediction": 1,
+    "score": 0.6764682115543342,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot00_part01",
+    "image": "images/lot00_part01.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part01.pgm",
+    "prediction": 1,
+    "score": 0.24064130687963112,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot00_part02",
+    "image": "images/lot00_part02.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part02.pgm",
+    "prediction": 0,
+    "score": 0.11972343845584478,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot00_part03",
+    "image": "images/lot00_part03.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part03.pgm",
+    "prediction": 1,
+    "score": 0.9621120456760732,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot00_part04",
+    "image": "images/lot00_part04.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part04.pgm",
+    "prediction": 0,
+    "score": 0.1624863040983327,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot00_part05",
+    "image": "images/lot00_part05.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part05.pgm",
+    "prediction": 1,
+    "score": 0.22271031160915697,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot00_part06",
+    "image": "images/lot00_part06.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part06.pgm",
+    "prediction": 1,
+    "score": 0.7032207742346807,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot00_part07",
+    "image": "images/lot00_part07.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part07.pgm",
+    "prediction": 0,
+    "score": 0.09653750006429637,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot00_part08",
+    "image": "images/lot00_part08.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part08.pgm",
+    "prediction": 0,
+    "score": 0.18546715309465656,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot00_part09",
+    "image": "images/lot00_part09.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part09.pgm",
+    "prediction": 1,
+    "score": 0.45777964202137583,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot00_part10",
+    "image": "images/lot00_part10.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part10.pgm",
+    "prediction": 1,
+    "score": 0.24942162593321285,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot00_part11",
+    "image": "images/lot00_part11.pgm",
+    "lot": 0,
+    "mask": "masks/lot00_part11.pgm",
+    "prediction": 0,
+    "score": 0.14022874818709186,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part00",
+    "image": "images/lot01_part00.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part00.pgm",
+    "prediction": 1,
+    "score": 0.6038475034063416,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot01_part01",
+    "image": "images/lot01_part01.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part01.pgm",
+    "prediction": 1,
+    "score": 0.26141580549597326,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part02",
+    "image": "images/lot01_part02.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part02.pgm",
+    "prediction": 0,
+    "score": 0.15897778744526583,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part03",
+    "image": "images/lot01_part03.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part03.pgm",
+    "prediction": 1,
+    "score": 0.30059088190447075,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot01_part04",
+    "image": "images/lot01_part04.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part04.pgm",
+    "prediction": 0,
+    "score": 0.16965981368440314,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part05",
+    "image": "images/lot01_part05.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part05.pgm",
+    "prediction": 0,
+    "score": 0.15648081354794627,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part06",
+    "image": "images/lot01_part06.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part06.pgm",
+    "prediction": 1,
+    "score": 0.9174774412643608,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot01_part07",
+    "image": "images/lot01_part07.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part07.pgm",
+    "prediction": 0,
+    "score": 0.19575971341945536,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part08",
+    "image": "images/lot01_part08.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part08.pgm",
+    "prediction": 0,
+    "score": 0.12207405373280668,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part09",
+    "image": "images/lot01_part09.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part09.pgm",
+    "prediction": 1,
+    "score": 0.5987220606300833,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot01_part10",
+    "image": "images/lot01_part10.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part10.pgm",
+    "prediction": 0,
+    "score": 0.19689131575067137,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot01_part11",
+    "image": "images/lot01_part11.pgm",
+    "lot": 1,
+    "mask": "masks/lot01_part11.pgm",
+    "prediction": 1,
+    "score": 0.24505234293473702,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part00",
+    "image": "images/lot02_part00.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part00.pgm",
+    "prediction": 1,
+    "score": 0.4242159529161255,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot02_part01",
+    "image": "images/lot02_part01.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part01.pgm",
+    "prediction": 1,
+    "score": 0.2263386172592703,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part02",
+    "image": "images/lot02_part02.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part02.pgm",
+    "prediction": 0,
+    "score": 0.11241274130708259,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part03",
+    "image": "images/lot02_part03.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part03.pgm",
+    "prediction": 1,
+    "score": 0.9079851997264362,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot02_part04",
+    "image": "images/lot02_part04.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part04.pgm",
+    "prediction": 1,
+    "score": 0.26987589401622514,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part05",
+    "image": "images/lot02_part05.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part05.pgm",
+    "prediction": 0,
+    "score": 0.1731564148185167,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part06",
+    "image": "images/lot02_part06.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part06.pgm",
+    "prediction": 1,
+    "score": 0.32118487789106887,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot02_part07",
+    "image": "images/lot02_part07.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part07.pgm",
+    "prediction": 1,
+    "score": 0.3366508592297143,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part08",
+    "image": "images/lot02_part08.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part08.pgm",
+    "prediction": 0,
+    "score": 0.20089554430989182,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part09",
+    "image": "images/lot02_part09.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part09.pgm",
+    "prediction": 1,
+    "score": 0.4088456702237011,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot02_part10",
+    "image": "images/lot02_part10.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part10.pgm",
+    "prediction": 1,
+    "score": 0.22534798928665298,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot02_part11",
+    "image": "images/lot02_part11.pgm",
+    "lot": 2,
+    "mask": "masks/lot02_part11.pgm",
+    "prediction": 1,
+    "score": 0.2173788931894786,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part00",
+    "image": "images/lot03_part00.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part00.pgm",
+    "prediction": 0,
+    "score": 0.13861949604859533,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot03_part01",
+    "image": "images/lot03_part01.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part01.pgm",
+    "prediction": 0,
+    "score": 0.1601129052468512,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part02",
+    "image": "images/lot03_part02.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part02.pgm",
+    "prediction": 0,
+    "score": 0.1701752212766253,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part03",
+    "image": "images/lot03_part03.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part03.pgm",
+    "prediction": 1,
+    "score": 0.9333971724115676,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot03_part04",
+    "image": "images/lot03_part04.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part04.pgm",
+    "prediction": 0,
+    "score": 0.15012736771073062,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part05",
+    "image": "images/lot03_part05.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part05.pgm",
+    "prediction": 0,
+    "score": 0.16119083098882572,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part06",
+    "image": "images/lot03_part06.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part06.pgm",
+    "prediction": 1,
+    "score": 0.6681157876093985,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot03_part07",
+    "image": "images/lot03_part07.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part07.pgm",
+    "prediction": 0,
+    "score": 0.15786328853978254,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part08",
+    "image": "images/lot03_part08.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part08.pgm",
+    "prediction": 0,
+    "score": 0.14762847346094637,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part09",
+    "image": "images/lot03_part09.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part09.pgm",
+    "prediction": 1,
+    "score": 0.8819345198139741,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot03_part10",
+    "image": "images/lot03_part10.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part10.pgm",
+    "prediction": 0,
+    "score": 0.16103738311588633,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot03_part11",
+    "image": "images/lot03_part11.pgm",
+    "lot": 3,
+    "mask": "masks/lot03_part11.pgm",
+    "prediction": 0,
+    "score": 0.16675127721440552,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part00",
+    "image": "images/lot04_part00.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part00.pgm",
+    "prediction": 1,
+    "score": 0.32955667043270453,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot04_part01",
+    "image": "images/lot04_part01.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part01.pgm",
+    "prediction": 0,
+    "score": 0.09601475149126687,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part02",
+    "image": "images/lot04_part02.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part02.pgm",
+    "prediction": 0,
+    "score": 0.1551458151748811,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part03",
+    "image": "images/lot04_part03.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part03.pgm",
+    "prediction": 1,
+    "score": 0.9824836461738095,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot04_part04",
+    "image": "images/lot04_part04.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part04.pgm",
+    "prediction": 0,
+    "score": 0.1469802415879104,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part05",
+    "image": "images/lot04_part05.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part05.pgm",
+    "prediction": 0,
+    "score": 0.17382148449833776,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part06",
+    "image": "images/lot04_part06.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part06.pgm",
+    "prediction": 1,
+    "score": 0.6989158822484215,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot04_part07",
+    "image": "images/lot04_part07.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part07.pgm",
+    "prediction": 0,
+    "score": 0.17804453655713592,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part08",
+    "image": "images/lot04_part08.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part08.pgm",
+    "prediction": 0,
+    "score": 0.11749897012762016,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part09",
+    "image": "images/lot04_part09.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part09.pgm",
+    "prediction": 1,
+    "score": 0.6808824939963853,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot04_part10",
+    "image": "images/lot04_part10.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part10.pgm",
+    "prediction": 0,
+    "score": 0.18362820415260142,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot04_part11",
+    "image": "images/lot04_part11.pgm",
+    "lot": 4,
+    "mask": "masks/lot04_part11.pgm",
+    "prediction": 0,
+    "score": 0.11494002600160014,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part00",
+    "image": "images/lot05_part00.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part00.pgm",
+    "prediction": 1,
+    "score": 0.8724000843670824,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot05_part01",
+    "image": "images/lot05_part01.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part01.pgm",
+    "prediction": 1,
+    "score": 0.4654961211610702,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part02",
+    "image": "images/lot05_part02.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part02.pgm",
+    "prediction": 1,
+    "score": 0.4517119040410497,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part03",
+    "image": "images/lot05_part03.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part03.pgm",
+    "prediction": 1,
+    "score": 0.9605856009048073,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot05_part04",
+    "image": "images/lot05_part04.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part04.pgm",
+    "prediction": 1,
+    "score": 0.2432806207100158,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part05",
+    "image": "images/lot05_part05.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part05.pgm",
+    "prediction": 1,
+    "score": 0.34550920003155483,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part06",
+    "image": "images/lot05_part06.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part06.pgm",
+    "prediction": 1,
+    "score": 0.726895544693939,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot05_part07",
+    "image": "images/lot05_part07.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part07.pgm",
+    "prediction": 1,
+    "score": 0.5567927685954551,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part08",
+    "image": "images/lot05_part08.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part08.pgm",
+    "prediction": 1,
+    "score": 0.2840788047668924,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part09",
+    "image": "images/lot05_part09.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part09.pgm",
+    "prediction": 1,
+    "score": 0.2587343807478053,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot05_part10",
+    "image": "images/lot05_part10.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part10.pgm",
+    "prediction": 1,
+    "score": 0.3332618700649218,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot05_part11",
+    "image": "images/lot05_part11.pgm",
+    "lot": 5,
+    "mask": "masks/lot05_part11.pgm",
+    "prediction": 1,
+    "score": 0.3357381785936827,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part00",
+    "image": "images/lot06_part00.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part00.pgm",
+    "prediction": 1,
+    "score": 0.8412350582660778,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot06_part01",
+    "image": "images/lot06_part01.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part01.pgm",
+    "prediction": 0,
+    "score": 0.03794264756937046,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part02",
+    "image": "images/lot06_part02.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part02.pgm",
+    "prediction": 0,
+    "score": 0.0409279972895656,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part03",
+    "image": "images/lot06_part03.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part03.pgm",
+    "prediction": 1,
+    "score": 0.873072300729124,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot06_part04",
+    "image": "images/lot06_part04.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part04.pgm",
+    "prediction": 0,
+    "score": 0.03442072179841655,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part05",
+    "image": "images/lot06_part05.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part05.pgm",
+    "prediction": 0,
+    "score": 0.044410098643106,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part06",
+    "image": "images/lot06_part06.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part06.pgm",
+    "prediction": 1,
+    "score": 0.38352802975907063,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot06_part07",
+    "image": "images/lot06_part07.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part07.pgm",
+    "prediction": 0,
+    "score": 0.041098593816469534,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part08",
+    "image": "images/lot06_part08.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part08.pgm",
+    "prediction": 0,
+    "score": 0.03687762795652691,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part09",
+    "image": "images/lot06_part09.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part09.pgm",
+    "prediction": 1,
+    "score": 0.4256378777484303,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot06_part10",
+    "image": "images/lot06_part10.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part10.pgm",
+    "prediction": 0,
+    "score": 0.03616499055513308,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot06_part11",
+    "image": "images/lot06_part11.pgm",
+    "lot": 6,
+    "mask": "masks/lot06_part11.pgm",
+    "prediction": 0,
+    "score": 0.029215024894648764,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part00",
+    "image": "images/lot07_part00.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part00.pgm",
+    "prediction": 1,
+    "score": 0.7731473941519384,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot07_part01",
+    "image": "images/lot07_part01.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part01.pgm",
+    "prediction": 1,
+    "score": 0.3730943252596295,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part02",
+    "image": "images/lot07_part02.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part02.pgm",
+    "prediction": 1,
+    "score": 0.2692879193592589,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part03",
+    "image": "images/lot07_part03.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part03.pgm",
+    "prediction": 1,
+    "score": 0.42326580571228734,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot07_part04",
+    "image": "images/lot07_part04.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part04.pgm",
+    "prediction": 1,
+    "score": 0.2574612108647293,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part05",
+    "image": "images/lot07_part05.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part05.pgm",
+    "prediction": 1,
+    "score": 0.298841057922165,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part06",
+    "image": "images/lot07_part06.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part06.pgm",
+    "prediction": 1,
+    "score": 0.8854134919045279,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot07_part07",
+    "image": "images/lot07_part07.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part07.pgm",
+    "prediction": 1,
+    "score": 0.4903729585666448,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part08",
+    "image": "images/lot07_part08.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part08.pgm",
+    "prediction": 1,
+    "score": 0.5386743823191764,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part09",
+    "image": "images/lot07_part09.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part09.pgm",
+    "prediction": 1,
+    "score": 0.7363009234859282,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot07_part10",
+    "image": "images/lot07_part10.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part10.pgm",
+    "prediction": 1,
+    "score": 0.2425688340907586,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot07_part11",
+    "image": "images/lot07_part11.pgm",
+    "lot": 7,
+    "mask": "masks/lot07_part11.pgm",
+    "prediction": 1,
+    "score": 0.2116664807906806,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part00",
+    "image": "images/lot08_part00.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part00.pgm",
+    "prediction": 1,
+    "score": 0.38116981806495465,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot08_part01",
+    "image": "images/lot08_part01.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part01.pgm",
+    "prediction": 0,
+    "score": 0.03008269669265779,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part02",
+    "image": "images/lot08_part02.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part02.pgm",
+    "prediction": 0,
+    "score": 0.0272512558115924,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part03",
+    "image": "images/lot08_part03.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part03.pgm",
+    "prediction": 1,
+    "score": 0.8131190808350256,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot08_part04",
+    "image": "images/lot08_part04.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part04.pgm",
+    "prediction": 0,
+    "score": 0.03102249857349569,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part05",
+    "image": "images/lot08_part05.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part05.pgm",
+    "prediction": 0,
+    "score": 0.03957187206007779,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part06",
+    "image": "images/lot08_part06.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part06.pgm",
+    "prediction": 0,
+    "score": 0.16619715749261013,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot08_part07",
+    "image": "images/lot08_part07.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part07.pgm",
+    "prediction": 0,
+    "score": 0.04039276822348565,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part08",
+    "image": "images/lot08_part08.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part08.pgm",
+    "prediction": 0,
+    "score": 0.033639291345639075,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part09",
+    "image": "images/lot08_part09.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part09.pgm",
+    "prediction": 1,
+    "score": 0.6200759777586787,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot08_part10",
+    "image": "images/lot08_part10.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part10.pgm",
+    "prediction": 0,
+    "score": 0.025486301706608476,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot08_part11",
+    "image": "images/lot08_part11.pgm",
+    "lot": 8,
+    "mask": "masks/lot08_part11.pgm",
+    "prediction": 0,
+    "score": 0.031038504524531295,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part00",
+    "image": "images/lot09_part00.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part00.pgm",
+    "prediction": 1,
+    "score": 0.8944240586425325,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot09_part01",
+    "image": "images/lot09_part01.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part01.pgm",
+    "prediction": 0,
+    "score": 0.03840634346546661,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part02",
+    "image": "images/lot09_part02.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part02.pgm",
+    "prediction": 0,
+    "score": 0.055994820634763416,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part03",
+    "image": "images/lot09_part03.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part03.pgm",
+    "prediction": 0,
+    "score": 0.18421449122486247,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot09_part04",
+    "image": "images/lot09_part04.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part04.pgm",
+    "prediction": 0,
+    "score": 0.04342539613202095,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part05",
+    "image": "images/lot09_part05.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part05.pgm",
+    "prediction": 0,
+    "score": 0.03692771638175508,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part06",
+    "image": "images/lot09_part06.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part06.pgm",
+    "prediction": 1,
+    "score": 0.6539666734951955,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot09_part07",
+    "image": "images/lot09_part07.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part07.pgm",
+    "prediction": 0,
+    "score": 0.02577021581831129,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part08",
+    "image": "images/lot09_part08.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part08.pgm",
+    "prediction": 0,
+    "score": 0.03580740625954317,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part09",
+    "image": "images/lot09_part09.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part09.pgm",
+    "prediction": 1,
+    "score": 0.9463899940923121,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot09_part10",
+    "image": "images/lot09_part10.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part10.pgm",
+    "prediction": 0,
+    "score": 0.04676642138461622,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot09_part11",
+    "image": "images/lot09_part11.pgm",
+    "lot": 9,
+    "mask": "masks/lot09_part11.pgm",
+    "prediction": 0,
+    "score": 0.0492403018807713,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part00",
+    "image": "images/lot10_part00.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part00.pgm",
+    "prediction": 1,
+    "score": 0.8902843841453855,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot10_part01",
+    "image": "images/lot10_part01.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part01.pgm",
+    "prediction": 1,
+    "score": 0.2827870898397043,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part02",
+    "image": "images/lot10_part02.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part02.pgm",
+    "prediction": 1,
+    "score": 0.25361887064721134,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part03",
+    "image": "images/lot10_part03.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part03.pgm",
+    "prediction": 1,
+    "score": 0.9430288136488099,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot10_part04",
+    "image": "images/lot10_part04.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part04.pgm",
+    "prediction": 1,
+    "score": 0.2784429388365029,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part05",
+    "image": "images/lot10_part05.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part05.pgm",
+    "prediction": 1,
+    "score": 0.21847287350717767,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part06",
+    "image": "images/lot10_part06.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part06.pgm",
+    "prediction": 1,
+    "score": 0.8023668506654213,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot10_part07",
+    "image": "images/lot10_part07.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part07.pgm",
+    "prediction": 0,
+    "score": 0.188668968666656,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part08",
+    "image": "images/lot10_part08.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part08.pgm",
+    "prediction": 1,
+    "score": 0.28183454081212816,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part09",
+    "image": "images/lot10_part09.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part09.pgm",
+    "prediction": 1,
+    "score": 0.8804156255116765,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot10_part10",
+    "image": "images/lot10_part10.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part10.pgm",
+    "prediction": 0,
+    "score": 0.16236223335657157,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot10_part11",
+    "image": "images/lot10_part11.pgm",
+    "lot": 10,
+    "mask": "masks/lot10_part11.pgm",
+    "prediction": 1,
+    "score": 0.3771197321271748,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part00",
+    "image": "images/lot11_part00.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part00.pgm",
+    "prediction": 1,
+    "score": 0.4925635717279897,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot11_part01",
+    "image": "images/lot11_part01.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part01.pgm",
+    "prediction": 0,
+    "score": 0.1389306900845285,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part02",
+    "image": "images/lot11_part02.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part02.pgm",
+    "prediction": 0,
+    "score": 0.09585631584406733,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part03",
+    "image": "images/lot11_part03.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part03.pgm",
+    "prediction": 1,
+    "score": 0.6481684591906939,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot11_part04",
+    "image": "images/lot11_part04.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part04.pgm",
+    "prediction": 0,
+    "score": 0.13011117611705997,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part05",
+    "image": "images/lot11_part05.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part05.pgm",
+    "prediction": 0,
+    "score": 0.12919265570642788,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part06",
+    "image": "images/lot11_part06.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part06.pgm",
+    "prediction": 1,
+    "score": 0.9116294186162065,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot11_part07",
+    "image": "images/lot11_part07.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part07.pgm",
+    "prediction": 0,
+    "score": 0.09441914026538378,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part08",
+    "image": "images/lot11_part08.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part08.pgm",
+    "prediction": 0,
+    "score": 0.08867585697333859,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part09",
+    "image": "images/lot11_part09.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part09.pgm",
+    "prediction": 1,
+    "score": 0.8798999369774018,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot11_part10",
+    "image": "images/lot11_part10.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part10.pgm",
+    "prediction": 0,
+    "score": 0.06398858694998986,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot11_part11",
+    "image": "images/lot11_part11.pgm",
+    "lot": 11,
+    "mask": "masks/lot11_part11.pgm",
+    "prediction": 0,
+    "score": 0.07319229889427012,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part00",
+    "image": "images/lot12_part00.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part00.pgm",
+    "prediction": 1,
+    "score": 0.8654811067416156,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot12_part01",
+    "image": "images/lot12_part01.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part01.pgm",
+    "prediction": 0,
+    "score": 0.04141375147990472,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part02",
+    "image": "images/lot12_part02.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part02.pgm",
+    "prediction": 0,
+    "score": 0.03267623093847822,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part03",
+    "image": "images/lot12_part03.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part03.pgm",
+    "prediction": 1,
+    "score": 0.926286484605841,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot12_part04",
+    "image": "images/lot12_part04.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part04.pgm",
+    "prediction": 0,
+    "score": 0.04818887322372295,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part05",
+    "image": "images/lot12_part05.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part05.pgm",
+    "prediction": 0,
+    "score": 0.04311571349047542,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part06",
+    "image": "images/lot12_part06.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part06.pgm",
+    "prediction": 0,
+    "score": 0.15073683291463963,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot12_part07",
+    "image": "images/lot12_part07.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part07.pgm",
+    "prediction": 0,
+    "score": 0.03358390085148591,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part08",
+    "image": "images/lot12_part08.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part08.pgm",
+    "prediction": 0,
+    "score": 0.0413739875402224,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part09",
+    "image": "images/lot12_part09.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part09.pgm",
+    "prediction": 0,
+    "score": 0.14550991849643416,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot12_part10",
+    "image": "images/lot12_part10.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part10.pgm",
+    "prediction": 0,
+    "score": 0.03286854649235535,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot12_part11",
+    "image": "images/lot12_part11.pgm",
+    "lot": 12,
+    "mask": "masks/lot12_part11.pgm",
+    "prediction": 0,
+    "score": 0.04299783142532435,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part00",
+    "image": "images/lot13_part00.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part00.pgm",
+    "prediction": 1,
+    "score": 0.5207771132292854,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot13_part01",
+    "image": "images/lot13_part01.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part01.pgm",
+    "prediction": 0,
+    "score": 0.07571700502567305,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part02",
+    "image": "images/lot13_part02.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part02.pgm",
+    "prediction": 0,
+    "score": 0.10287065002854362,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part03",
+    "image": "images/lot13_part03.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part03.pgm",
+    "prediction": 1,
+    "score": 0.24743591109534258,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot13_part04",
+    "image": "images/lot13_part04.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part04.pgm",
+    "prediction": 0,
+    "score": 0.1472426478112318,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part05",
+    "image": "images/lot13_part05.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part05.pgm",
+    "prediction": 0,
+    "score": 0.07758607795933999,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part06",
+    "image": "images/lot13_part06.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part06.pgm",
+    "prediction": 1,
+    "score": 0.6845905283294726,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot13_part07",
+    "image": "images/lot13_part07.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part07.pgm",
+    "prediction": 0,
+    "score": 0.07308622350199986,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part08",
+    "image": "images/lot13_part08.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part08.pgm",
+    "prediction": 0,
+    "score": 0.07702978468433337,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part09",
+    "image": "images/lot13_part09.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part09.pgm",
+    "prediction": 1,
+    "score": 0.883041930816181,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot13_part10",
+    "image": "images/lot13_part10.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part10.pgm",
+    "prediction": 0,
+    "score": 0.06581911731978715,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot13_part11",
+    "image": "images/lot13_part11.pgm",
+    "lot": 13,
+    "mask": "masks/lot13_part11.pgm",
+    "prediction": 0,
+    "score": 0.06439918890556709,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part00",
+    "image": "images/lot14_part00.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part00.pgm",
+    "prediction": 1,
+    "score": 0.33371797994000835,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot14_part01",
+    "image": "images/lot14_part01.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part01.pgm",
+    "prediction": 1,
+    "score": 0.21945080606144513,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part02",
+    "image": "images/lot14_part02.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part02.pgm",
+    "prediction": 1,
+    "score": 0.26715676775358066,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part03",
+    "image": "images/lot14_part03.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part03.pgm",
+    "prediction": 1,
+    "score": 0.32617697302967397,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot14_part04",
+    "image": "images/lot14_part04.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part04.pgm",
+    "prediction": 0,
+    "score": 0.16070223799067043,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part05",
+    "image": "images/lot14_part05.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part05.pgm",
+    "prediction": 0,
+    "score": 0.19944495115732694,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part06",
+    "image": "images/lot14_part06.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part06.pgm",
+    "prediction": 1,
+    "score": 0.8492280418987512,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot14_part07",
+    "image": "images/lot14_part07.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part07.pgm",
+    "prediction": 0,
+    "score": 0.17993732651857935,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part08",
+    "image": "images/lot14_part08.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part08.pgm",
+    "prediction": 1,
+    "score": 0.2109432057371409,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part09",
+    "image": "images/lot14_part09.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part09.pgm",
+    "prediction": 1,
+    "score": 0.39696866443385054,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot14_part10",
+    "image": "images/lot14_part10.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part10.pgm",
+    "prediction": 1,
+    "score": 0.30891338071602403,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot14_part11",
+    "image": "images/lot14_part11.pgm",
+    "lot": 14,
+    "mask": "masks/lot14_part11.pgm",
+    "prediction": 1,
+    "score": 0.30297390559041193,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part00",
+    "image": "images/lot15_part00.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part00.pgm",
+    "prediction": 1,
+    "score": 0.33298829068424884,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot15_part01",
+    "image": "images/lot15_part01.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part01.pgm",
+    "prediction": 1,
+    "score": 0.4315950536859587,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part02",
+    "image": "images/lot15_part02.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part02.pgm",
+    "prediction": 1,
+    "score": 0.4133420797127703,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part03",
+    "image": "images/lot15_part03.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part03.pgm",
+    "prediction": 1,
+    "score": 0.9502385321608767,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot15_part04",
+    "image": "images/lot15_part04.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part04.pgm",
+    "prediction": 1,
+    "score": 0.3438837860413805,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part05",
+    "image": "images/lot15_part05.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part05.pgm",
+    "prediction": 1,
+    "score": 0.8725030694999102,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part06",
+    "image": "images/lot15_part06.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part06.pgm",
+    "prediction": 1,
+    "score": 0.41714084932687606,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot15_part07",
+    "image": "images/lot15_part07.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part07.pgm",
+    "prediction": 1,
+    "score": 0.5090869210506924,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part08",
+    "image": "images/lot15_part08.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part08.pgm",
+    "prediction": 1,
+    "score": 0.45782117383528664,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part09",
+    "image": "images/lot15_part09.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part09.pgm",
+    "prediction": 1,
+    "score": 0.9676473177492567,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot15_part10",
+    "image": "images/lot15_part10.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part10.pgm",
+    "prediction": 1,
+    "score": 0.2813383756148497,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot15_part11",
+    "image": "images/lot15_part11.pgm",
+    "lot": 15,
+    "mask": "masks/lot15_part11.pgm",
+    "prediction": 1,
+    "score": 0.44640338157020476,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part00",
+    "image": "images/lot16_part00.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part00.pgm",
+    "prediction": 1,
+    "score": 0.9421341744207109,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot16_part01",
+    "image": "images/lot16_part01.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part01.pgm",
+    "prediction": 0,
+    "score": 0.08794800978405129,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part02",
+    "image": "images/lot16_part02.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part02.pgm",
+    "prediction": 0,
+    "score": 0.104782088356255,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part03",
+    "image": "images/lot16_part03.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part03.pgm",
+    "prediction": 1,
+    "score": 0.8706255081089125,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot16_part04",
+    "image": "images/lot16_part04.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part04.pgm",
+    "prediction": 0,
+    "score": 0.1490283387633149,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part05",
+    "image": "images/lot16_part05.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part05.pgm",
+    "prediction": 0,
+    "score": 0.08823463878339932,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part06",
+    "image": "images/lot16_part06.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part06.pgm",
+    "prediction": 1,
+    "score": 0.40804367312752965,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot16_part07",
+    "image": "images/lot16_part07.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part07.pgm",
+    "prediction": 0,
+    "score": 0.10996714746643592,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part08",
+    "image": "images/lot16_part08.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part08.pgm",
+    "prediction": 0,
+    "score": 0.10564869441015867,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part09",
+    "image": "images/lot16_part09.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part09.pgm",
+    "prediction": 1,
+    "score": 0.32693963569438395,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot16_part10",
+    "image": "images/lot16_part10.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part10.pgm",
+    "prediction": 0,
+    "score": 0.11687495161145724,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot16_part11",
+    "image": "images/lot16_part11.pgm",
+    "lot": 16,
+    "mask": "masks/lot16_part11.pgm",
+    "prediction": 0,
+    "score": 0.1581659107830813,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part00",
+    "image": "images/lot17_part00.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part00.pgm",
+    "prediction": 1,
+    "score": 0.9054465338398564,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot17_part01",
+    "image": "images/lot17_part01.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part01.pgm",
+    "prediction": 0,
+    "score": 0.08842878027814377,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part02",
+    "image": "images/lot17_part02.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part02.pgm",
+    "prediction": 0,
+    "score": 0.10704813887320949,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part03",
+    "image": "images/lot17_part03.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part03.pgm",
+    "prediction": 1,
+    "score": 0.9396646949806294,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot17_part04",
+    "image": "images/lot17_part04.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part04.pgm",
+    "prediction": 0,
+    "score": 0.09016444396223701,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part05",
+    "image": "images/lot17_part05.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part05.pgm",
+    "prediction": 0,
+    "score": 0.1314645962920486,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part06",
+    "image": "images/lot17_part06.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part06.pgm",
+    "prediction": 1,
+    "score": 0.9830909269941985,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot17_part07",
+    "image": "images/lot17_part07.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part07.pgm",
+    "prediction": 0,
+    "score": 0.15548541879729608,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part08",
+    "image": "images/lot17_part08.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part08.pgm",
+    "prediction": 0,
+    "score": 0.08575624670976852,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part09",
+    "image": "images/lot17_part09.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part09.pgm",
+    "prediction": 1,
+    "score": 0.6690935609547435,
+    "split": "train",
+    "target": 1
+  },
+  {
+    "id": "lot17_part10",
+    "image": "images/lot17_part10.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part10.pgm",
+    "prediction": 0,
+    "score": 0.1020480592881021,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot17_part11",
+    "image": "images/lot17_part11.pgm",
+    "lot": 17,
+    "mask": "masks/lot17_part11.pgm",
+    "prediction": 0,
+    "score": 0.19734822661869103,
+    "split": "train",
+    "target": 0
+  },
+  {
+    "id": "lot18_part00",
+    "image": "images/lot18_part00.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part00.pgm",
+    "prediction": 1,
+    "score": 0.2051398122470898,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot18_part01",
+    "image": "images/lot18_part01.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part01.pgm",
+    "prediction": 0,
+    "score": 0.04683885628353225,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot18_part02",
+    "image": "images/lot18_part02.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part02.pgm",
+    "prediction": 0,
+    "score": 0.04662869375784054,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot18_part03",
+    "image": "images/lot18_part03.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part03.pgm",
+    "prediction": 1,
+    "score": 0.879180977322372,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot18_part04",
+    "image": "images/lot18_part04.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part04.pgm",
+    "prediction": 0,
+    "score": 0.05631849817717322,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot18_part05",
+    "image": "images/lot18_part05.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part05.pgm",
+    "prediction": 0,
+    "score": 0.03611531745814346,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot18_part06",
+    "image": "images/lot18_part06.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part06.pgm",
+    "prediction": 1,
+    "score": 0.374060990539973,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot18_part07",
+    "image": "images/lot18_part07.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part07.pgm",
+    "prediction": 0,
+    "score": 0.04160906611050063,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot18_part08",
+    "image": "images/lot18_part08.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part08.pgm",
+    "prediction": 0,
+    "score": 0.04620980617391413,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot18_part09",
+    "image": "images/lot18_part09.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part09.pgm",
+    "prediction": 0,
+    "score": 0.09397288495057278,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot18_part10",
+    "image": "images/lot18_part10.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part10.pgm",
+    "prediction": 0,
+    "score": 0.039850472559374274,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot18_part11",
+    "image": "images/lot18_part11.pgm",
+    "lot": 18,
+    "mask": "masks/lot18_part11.pgm",
+    "prediction": 0,
+    "score": 0.051791189727493414,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part00",
+    "image": "images/lot19_part00.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part00.pgm",
+    "prediction": 1,
+    "score": 0.5304048048917872,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot19_part01",
+    "image": "images/lot19_part01.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part01.pgm",
+    "prediction": 0,
+    "score": 0.18494929599710613,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part02",
+    "image": "images/lot19_part02.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part02.pgm",
+    "prediction": 0,
+    "score": 0.19014455626466328,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part03",
+    "image": "images/lot19_part03.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part03.pgm",
+    "prediction": 1,
+    "score": 0.7811006324361982,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot19_part04",
+    "image": "images/lot19_part04.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part04.pgm",
+    "prediction": 1,
+    "score": 0.25393914135134543,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part05",
+    "image": "images/lot19_part05.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part05.pgm",
+    "prediction": 0,
+    "score": 0.20454207456843512,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part06",
+    "image": "images/lot19_part06.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part06.pgm",
+    "prediction": 1,
+    "score": 0.9636553988789517,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot19_part07",
+    "image": "images/lot19_part07.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part07.pgm",
+    "prediction": 0,
+    "score": 0.13456642387433182,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part08",
+    "image": "images/lot19_part08.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part08.pgm",
+    "prediction": 0,
+    "score": 0.12495513121229904,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part09",
+    "image": "images/lot19_part09.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part09.pgm",
+    "prediction": 1,
+    "score": 0.9938331118023652,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot19_part10",
+    "image": "images/lot19_part10.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part10.pgm",
+    "prediction": 1,
+    "score": 0.2626256748057515,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot19_part11",
+    "image": "images/lot19_part11.pgm",
+    "lot": 19,
+    "mask": "masks/lot19_part11.pgm",
+    "prediction": 0,
+    "score": 0.1771822987517531,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part00",
+    "image": "images/lot20_part00.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part00.pgm",
+    "prediction": 1,
+    "score": 0.6742636614551166,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot20_part01",
+    "image": "images/lot20_part01.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part01.pgm",
+    "prediction": 0,
+    "score": 0.11755083863191661,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part02",
+    "image": "images/lot20_part02.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part02.pgm",
+    "prediction": 0,
+    "score": 0.10976367052902769,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part03",
+    "image": "images/lot20_part03.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part03.pgm",
+    "prediction": 1,
+    "score": 0.48054674106494727,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot20_part04",
+    "image": "images/lot20_part04.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part04.pgm",
+    "prediction": 0,
+    "score": 0.14502277239787792,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part05",
+    "image": "images/lot20_part05.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part05.pgm",
+    "prediction": 0,
+    "score": 0.14418931470683172,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part06",
+    "image": "images/lot20_part06.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part06.pgm",
+    "prediction": 1,
+    "score": 0.42506397147421027,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot20_part07",
+    "image": "images/lot20_part07.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part07.pgm",
+    "prediction": 0,
+    "score": 0.11073333558714075,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part08",
+    "image": "images/lot20_part08.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part08.pgm",
+    "prediction": 0,
+    "score": 0.1313134643232679,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part09",
+    "image": "images/lot20_part09.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part09.pgm",
+    "prediction": 1,
+    "score": 0.35197678984670266,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot20_part10",
+    "image": "images/lot20_part10.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part10.pgm",
+    "prediction": 0,
+    "score": 0.13145366047466386,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot20_part11",
+    "image": "images/lot20_part11.pgm",
+    "lot": 20,
+    "mask": "masks/lot20_part11.pgm",
+    "prediction": 0,
+    "score": 0.09739779805379177,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part00",
+    "image": "images/lot21_part00.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part00.pgm",
+    "prediction": 1,
+    "score": 0.7910665273914737,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot21_part01",
+    "image": "images/lot21_part01.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part01.pgm",
+    "prediction": 0,
+    "score": 0.04320919760001773,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part02",
+    "image": "images/lot21_part02.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part02.pgm",
+    "prediction": 0,
+    "score": 0.035669972013515606,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part03",
+    "image": "images/lot21_part03.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part03.pgm",
+    "prediction": 1,
+    "score": 0.6175827389665087,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot21_part04",
+    "image": "images/lot21_part04.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part04.pgm",
+    "prediction": 0,
+    "score": 0.05180200891458761,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part05",
+    "image": "images/lot21_part05.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part05.pgm",
+    "prediction": 0,
+    "score": 0.05654616086591988,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part06",
+    "image": "images/lot21_part06.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part06.pgm",
+    "prediction": 1,
+    "score": 0.3923395818644965,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot21_part07",
+    "image": "images/lot21_part07.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part07.pgm",
+    "prediction": 0,
+    "score": 0.040622354116047234,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part08",
+    "image": "images/lot21_part08.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part08.pgm",
+    "prediction": 0,
+    "score": 0.04682096937323488,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part09",
+    "image": "images/lot21_part09.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part09.pgm",
+    "prediction": 1,
+    "score": 0.24427188880981446,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot21_part10",
+    "image": "images/lot21_part10.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part10.pgm",
+    "prediction": 0,
+    "score": 0.047057761028435285,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot21_part11",
+    "image": "images/lot21_part11.pgm",
+    "lot": 21,
+    "mask": "masks/lot21_part11.pgm",
+    "prediction": 0,
+    "score": 0.060936753203518476,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part00",
+    "image": "images/lot22_part00.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part00.pgm",
+    "prediction": 1,
+    "score": 0.5336530688690361,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot22_part01",
+    "image": "images/lot22_part01.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part01.pgm",
+    "prediction": 0,
+    "score": 0.15750051806147655,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part02",
+    "image": "images/lot22_part02.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part02.pgm",
+    "prediction": 0,
+    "score": 0.20105705492342302,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part03",
+    "image": "images/lot22_part03.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part03.pgm",
+    "prediction": 1,
+    "score": 0.21015952782191066,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot22_part04",
+    "image": "images/lot22_part04.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part04.pgm",
+    "prediction": 0,
+    "score": 0.16969473780521388,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part05",
+    "image": "images/lot22_part05.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part05.pgm",
+    "prediction": 0,
+    "score": 0.16220768988877626,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part06",
+    "image": "images/lot22_part06.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part06.pgm",
+    "prediction": 1,
+    "score": 0.7781559537533628,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot22_part07",
+    "image": "images/lot22_part07.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part07.pgm",
+    "prediction": 1,
+    "score": 0.28342779476142455,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part08",
+    "image": "images/lot22_part08.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part08.pgm",
+    "prediction": 0,
+    "score": 0.1259089704071264,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part09",
+    "image": "images/lot22_part09.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part09.pgm",
+    "prediction": 1,
+    "score": 0.25555629478877195,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot22_part10",
+    "image": "images/lot22_part10.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part10.pgm",
+    "prediction": 0,
+    "score": 0.14602749010711838,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot22_part11",
+    "image": "images/lot22_part11.pgm",
+    "lot": 22,
+    "mask": "masks/lot22_part11.pgm",
+    "prediction": 1,
+    "score": 0.261480266175027,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part00",
+    "image": "images/lot23_part00.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part00.pgm",
+    "prediction": 1,
+    "score": 0.8382939864649062,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot23_part01",
+    "image": "images/lot23_part01.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part01.pgm",
+    "prediction": 0,
+    "score": 0.024735577772693976,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part02",
+    "image": "images/lot23_part02.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part02.pgm",
+    "prediction": 0,
+    "score": 0.028737142419346648,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part03",
+    "image": "images/lot23_part03.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part03.pgm",
+    "prediction": 1,
+    "score": 0.5480043738259668,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot23_part04",
+    "image": "images/lot23_part04.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part04.pgm",
+    "prediction": 0,
+    "score": 0.02670264271381721,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part05",
+    "image": "images/lot23_part05.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part05.pgm",
+    "prediction": 0,
+    "score": 0.029044550258818774,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part06",
+    "image": "images/lot23_part06.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part06.pgm",
+    "prediction": 1,
+    "score": 0.6743215383916041,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot23_part07",
+    "image": "images/lot23_part07.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part07.pgm",
+    "prediction": 0,
+    "score": 0.03250822479840633,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part08",
+    "image": "images/lot23_part08.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part08.pgm",
+    "prediction": 0,
+    "score": 0.03060864687762351,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part09",
+    "image": "images/lot23_part09.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part09.pgm",
+    "prediction": 1,
+    "score": 0.7918563645943116,
+    "split": "validation",
+    "target": 1
+  },
+  {
+    "id": "lot23_part10",
+    "image": "images/lot23_part10.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part10.pgm",
+    "prediction": 0,
+    "score": 0.03645533681465035,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot23_part11",
+    "image": "images/lot23_part11.pgm",
+    "lot": 23,
+    "mask": "masks/lot23_part11.pgm",
+    "prediction": 0,
+    "score": 0.03253928057542025,
+    "split": "validation",
+    "target": 0
+  },
+  {
+    "id": "lot24_part00",
+    "image": "images/lot24_part00.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part00.pgm",
+    "prediction": 1,
+    "score": 0.6487890839172618,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot24_part01",
+    "image": "images/lot24_part01.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part01.pgm",
+    "prediction": 1,
+    "score": 0.2496275555563683,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot24_part02",
+    "image": "images/lot24_part02.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part02.pgm",
+    "prediction": 1,
+    "score": 0.4183869535310994,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot24_part03",
+    "image": "images/lot24_part03.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part03.pgm",
+    "prediction": 1,
+    "score": 0.9337369646551771,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot24_part04",
+    "image": "images/lot24_part04.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part04.pgm",
+    "prediction": 0,
+    "score": 0.13448371926017408,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot24_part05",
+    "image": "images/lot24_part05.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part05.pgm",
+    "prediction": 0,
+    "score": 0.1295591708179843,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot24_part06",
+    "image": "images/lot24_part06.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part06.pgm",
+    "prediction": 1,
+    "score": 0.4669261085555163,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot24_part07",
+    "image": "images/lot24_part07.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part07.pgm",
+    "prediction": 0,
+    "score": 0.16619874841743995,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot24_part08",
+    "image": "images/lot24_part08.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part08.pgm",
+    "prediction": 0,
+    "score": 0.19448984020698193,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot24_part09",
+    "image": "images/lot24_part09.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part09.pgm",
+    "prediction": 1,
+    "score": 0.9604121478674784,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot24_part10",
+    "image": "images/lot24_part10.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part10.pgm",
+    "prediction": 0,
+    "score": 0.15308148102291416,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot24_part11",
+    "image": "images/lot24_part11.pgm",
+    "lot": 24,
+    "mask": "masks/lot24_part11.pgm",
+    "prediction": 1,
+    "score": 0.29149925910640984,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part00",
+    "image": "images/lot25_part00.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part00.pgm",
+    "prediction": 1,
+    "score": 0.6291589670556467,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot25_part01",
+    "image": "images/lot25_part01.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part01.pgm",
+    "prediction": 0,
+    "score": 0.036776759525876,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part02",
+    "image": "images/lot25_part02.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part02.pgm",
+    "prediction": 0,
+    "score": 0.04328848151130489,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part03",
+    "image": "images/lot25_part03.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part03.pgm",
+    "prediction": 0,
+    "score": 0.10355179149493605,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot25_part04",
+    "image": "images/lot25_part04.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part04.pgm",
+    "prediction": 0,
+    "score": 0.07784277643858935,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part05",
+    "image": "images/lot25_part05.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part05.pgm",
+    "prediction": 0,
+    "score": 0.038645656500947596,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part06",
+    "image": "images/lot25_part06.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part06.pgm",
+    "prediction": 1,
+    "score": 0.2804431404051073,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot25_part07",
+    "image": "images/lot25_part07.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part07.pgm",
+    "prediction": 0,
+    "score": 0.031032209135715957,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part08",
+    "image": "images/lot25_part08.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part08.pgm",
+    "prediction": 0,
+    "score": 0.0342048041798246,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part09",
+    "image": "images/lot25_part09.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part09.pgm",
+    "prediction": 1,
+    "score": 0.5066426999752278,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot25_part10",
+    "image": "images/lot25_part10.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part10.pgm",
+    "prediction": 0,
+    "score": 0.038247057257845135,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot25_part11",
+    "image": "images/lot25_part11.pgm",
+    "lot": 25,
+    "mask": "masks/lot25_part11.pgm",
+    "prediction": 0,
+    "score": 0.03530093808886515,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part00",
+    "image": "images/lot26_part00.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part00.pgm",
+    "prediction": 1,
+    "score": 0.7218706919625175,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot26_part01",
+    "image": "images/lot26_part01.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part01.pgm",
+    "prediction": 0,
+    "score": 0.07871793442634364,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part02",
+    "image": "images/lot26_part02.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part02.pgm",
+    "prediction": 0,
+    "score": 0.07386640294078568,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part03",
+    "image": "images/lot26_part03.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part03.pgm",
+    "prediction": 1,
+    "score": 0.93529997563605,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot26_part04",
+    "image": "images/lot26_part04.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part04.pgm",
+    "prediction": 0,
+    "score": 0.08298875516913035,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part05",
+    "image": "images/lot26_part05.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part05.pgm",
+    "prediction": 0,
+    "score": 0.08385959972997854,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part06",
+    "image": "images/lot26_part06.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part06.pgm",
+    "prediction": 0,
+    "score": 0.1669931281419056,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot26_part07",
+    "image": "images/lot26_part07.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part07.pgm",
+    "prediction": 0,
+    "score": 0.06919675315600751,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part08",
+    "image": "images/lot26_part08.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part08.pgm",
+    "prediction": 0,
+    "score": 0.0716155673888358,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part09",
+    "image": "images/lot26_part09.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part09.pgm",
+    "prediction": 0,
+    "score": 0.1579919835024584,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot26_part10",
+    "image": "images/lot26_part10.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part10.pgm",
+    "prediction": 0,
+    "score": 0.07663332148619799,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot26_part11",
+    "image": "images/lot26_part11.pgm",
+    "lot": 26,
+    "mask": "masks/lot26_part11.pgm",
+    "prediction": 0,
+    "score": 0.09689705937835916,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part00",
+    "image": "images/lot27_part00.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part00.pgm",
+    "prediction": 1,
+    "score": 0.44540210885958303,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot27_part01",
+    "image": "images/lot27_part01.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part01.pgm",
+    "prediction": 1,
+    "score": 0.35274629644774025,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part02",
+    "image": "images/lot27_part02.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part02.pgm",
+    "prediction": 1,
+    "score": 0.34378877359104487,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part03",
+    "image": "images/lot27_part03.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part03.pgm",
+    "prediction": 1,
+    "score": 0.263090778545382,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot27_part04",
+    "image": "images/lot27_part04.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part04.pgm",
+    "prediction": 1,
+    "score": 0.23819916962900403,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part05",
+    "image": "images/lot27_part05.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part05.pgm",
+    "prediction": 1,
+    "score": 0.2078505746616601,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part06",
+    "image": "images/lot27_part06.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part06.pgm",
+    "prediction": 1,
+    "score": 0.8136571235343885,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot27_part07",
+    "image": "images/lot27_part07.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part07.pgm",
+    "prediction": 1,
+    "score": 0.3045869383397575,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part08",
+    "image": "images/lot27_part08.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part08.pgm",
+    "prediction": 1,
+    "score": 0.26028412913599996,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part09",
+    "image": "images/lot27_part09.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part09.pgm",
+    "prediction": 1,
+    "score": 0.985278484604192,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot27_part10",
+    "image": "images/lot27_part10.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part10.pgm",
+    "prediction": 1,
+    "score": 0.2896589524408223,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot27_part11",
+    "image": "images/lot27_part11.pgm",
+    "lot": 27,
+    "mask": "masks/lot27_part11.pgm",
+    "prediction": 1,
+    "score": 0.3094989070862421,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part00",
+    "image": "images/lot28_part00.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part00.pgm",
+    "prediction": 1,
+    "score": 0.8538556934231957,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot28_part01",
+    "image": "images/lot28_part01.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part01.pgm",
+    "prediction": 1,
+    "score": 0.3311134345557874,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part02",
+    "image": "images/lot28_part02.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part02.pgm",
+    "prediction": 1,
+    "score": 0.5250591079597587,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part03",
+    "image": "images/lot28_part03.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part03.pgm",
+    "prediction": 1,
+    "score": 0.9467591031007204,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot28_part04",
+    "image": "images/lot28_part04.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part04.pgm",
+    "prediction": 1,
+    "score": 0.5855530211864619,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part05",
+    "image": "images/lot28_part05.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part05.pgm",
+    "prediction": 1,
+    "score": 0.37613155293654815,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part06",
+    "image": "images/lot28_part06.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part06.pgm",
+    "prediction": 1,
+    "score": 0.7244269539072227,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot28_part07",
+    "image": "images/lot28_part07.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part07.pgm",
+    "prediction": 1,
+    "score": 0.6050436417884478,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part08",
+    "image": "images/lot28_part08.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part08.pgm",
+    "prediction": 1,
+    "score": 0.4024901931702033,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part09",
+    "image": "images/lot28_part09.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part09.pgm",
+    "prediction": 1,
+    "score": 0.5196110011649996,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot28_part10",
+    "image": "images/lot28_part10.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part10.pgm",
+    "prediction": 1,
+    "score": 0.6165799738025112,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot28_part11",
+    "image": "images/lot28_part11.pgm",
+    "lot": 28,
+    "mask": "masks/lot28_part11.pgm",
+    "prediction": 1,
+    "score": 0.5562365661826223,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part00",
+    "image": "images/lot29_part00.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part00.pgm",
+    "prediction": 0,
+    "score": 0.1624312602569448,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot29_part01",
+    "image": "images/lot29_part01.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part01.pgm",
+    "prediction": 0,
+    "score": 0.11245528515386205,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part02",
+    "image": "images/lot29_part02.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part02.pgm",
+    "prediction": 0,
+    "score": 0.11897507690450361,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part03",
+    "image": "images/lot29_part03.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part03.pgm",
+    "prediction": 1,
+    "score": 0.5250103592338742,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot29_part04",
+    "image": "images/lot29_part04.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part04.pgm",
+    "prediction": 0,
+    "score": 0.10007868212210536,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part05",
+    "image": "images/lot29_part05.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part05.pgm",
+    "prediction": 0,
+    "score": 0.11746758459321965,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part06",
+    "image": "images/lot29_part06.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part06.pgm",
+    "prediction": 1,
+    "score": 0.8025642527250215,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot29_part07",
+    "image": "images/lot29_part07.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part07.pgm",
+    "prediction": 0,
+    "score": 0.1764560972227278,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part08",
+    "image": "images/lot29_part08.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part08.pgm",
+    "prediction": 1,
+    "score": 0.20625146050378143,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part09",
+    "image": "images/lot29_part09.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part09.pgm",
+    "prediction": 1,
+    "score": 0.6271553307027743,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot29_part10",
+    "image": "images/lot29_part10.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part10.pgm",
+    "prediction": 0,
+    "score": 0.13066956705808275,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot29_part11",
+    "image": "images/lot29_part11.pgm",
+    "lot": 29,
+    "mask": "masks/lot29_part11.pgm",
+    "prediction": 0,
+    "score": 0.1308397124667232,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part00",
+    "image": "images/lot30_part00.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part00.pgm",
+    "prediction": 0,
+    "score": 0.18546753105242436,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot30_part01",
+    "image": "images/lot30_part01.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part01.pgm",
+    "prediction": 0,
+    "score": 0.07829355710533092,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part02",
+    "image": "images/lot30_part02.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part02.pgm",
+    "prediction": 0,
+    "score": 0.11980969598087812,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part03",
+    "image": "images/lot30_part03.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part03.pgm",
+    "prediction": 1,
+    "score": 0.23696896522652638,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot30_part04",
+    "image": "images/lot30_part04.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part04.pgm",
+    "prediction": 0,
+    "score": 0.10327171742893938,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part05",
+    "image": "images/lot30_part05.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part05.pgm",
+    "prediction": 0,
+    "score": 0.07989763250359913,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part06",
+    "image": "images/lot30_part06.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part06.pgm",
+    "prediction": 1,
+    "score": 0.6218116241252936,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot30_part07",
+    "image": "images/lot30_part07.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part07.pgm",
+    "prediction": 0,
+    "score": 0.07007745721461944,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part08",
+    "image": "images/lot30_part08.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part08.pgm",
+    "prediction": 0,
+    "score": 0.12836366908078997,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part09",
+    "image": "images/lot30_part09.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part09.pgm",
+    "prediction": 1,
+    "score": 0.3086941344513773,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot30_part10",
+    "image": "images/lot30_part10.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part10.pgm",
+    "prediction": 0,
+    "score": 0.08487026659909536,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot30_part11",
+    "image": "images/lot30_part11.pgm",
+    "lot": 30,
+    "mask": "masks/lot30_part11.pgm",
+    "prediction": 0,
+    "score": 0.07260221291812088,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part00",
+    "image": "images/lot31_part00.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part00.pgm",
+    "prediction": 0,
+    "score": 0.13521630486332548,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot31_part01",
+    "image": "images/lot31_part01.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part01.pgm",
+    "prediction": 0,
+    "score": 0.03825853347607493,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part02",
+    "image": "images/lot31_part02.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part02.pgm",
+    "prediction": 0,
+    "score": 0.05095786869061931,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part03",
+    "image": "images/lot31_part03.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part03.pgm",
+    "prediction": 0,
+    "score": 0.1681522364109092,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot31_part04",
+    "image": "images/lot31_part04.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part04.pgm",
+    "prediction": 0,
+    "score": 0.05963646204884354,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part05",
+    "image": "images/lot31_part05.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part05.pgm",
+    "prediction": 0,
+    "score": 0.06943949840755842,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part06",
+    "image": "images/lot31_part06.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part06.pgm",
+    "prediction": 0,
+    "score": 0.15014697515510206,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot31_part07",
+    "image": "images/lot31_part07.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part07.pgm",
+    "prediction": 0,
+    "score": 0.05118341172554614,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part08",
+    "image": "images/lot31_part08.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part08.pgm",
+    "prediction": 0,
+    "score": 0.06127335729930591,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part09",
+    "image": "images/lot31_part09.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part09.pgm",
+    "prediction": 1,
+    "score": 0.24513247113835915,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot31_part10",
+    "image": "images/lot31_part10.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part10.pgm",
+    "prediction": 0,
+    "score": 0.05227955607129264,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot31_part11",
+    "image": "images/lot31_part11.pgm",
+    "lot": 31,
+    "mask": "masks/lot31_part11.pgm",
+    "prediction": 0,
+    "score": 0.04870910684450096,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part00",
+    "image": "images/lot32_part00.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part00.pgm",
+    "prediction": 1,
+    "score": 0.5588563446811727,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot32_part01",
+    "image": "images/lot32_part01.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part01.pgm",
+    "prediction": 0,
+    "score": 0.05406974405629788,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part02",
+    "image": "images/lot32_part02.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part02.pgm",
+    "prediction": 0,
+    "score": 0.08718229741588286,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part03",
+    "image": "images/lot32_part03.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part03.pgm",
+    "prediction": 1,
+    "score": 0.44461507396071526,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot32_part04",
+    "image": "images/lot32_part04.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part04.pgm",
+    "prediction": 0,
+    "score": 0.06545940215015957,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part05",
+    "image": "images/lot32_part05.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part05.pgm",
+    "prediction": 0,
+    "score": 0.05549836629528672,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part06",
+    "image": "images/lot32_part06.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part06.pgm",
+    "prediction": 1,
+    "score": 0.6294272495576312,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot32_part07",
+    "image": "images/lot32_part07.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part07.pgm",
+    "prediction": 0,
+    "score": 0.08068266019730454,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part08",
+    "image": "images/lot32_part08.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part08.pgm",
+    "prediction": 0,
+    "score": 0.10397056534568024,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part09",
+    "image": "images/lot32_part09.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part09.pgm",
+    "prediction": 1,
+    "score": 0.9201473123651731,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot32_part10",
+    "image": "images/lot32_part10.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part10.pgm",
+    "prediction": 0,
+    "score": 0.1341506316391706,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot32_part11",
+    "image": "images/lot32_part11.pgm",
+    "lot": 32,
+    "mask": "masks/lot32_part11.pgm",
+    "prediction": 0,
+    "score": 0.05650293139878887,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part00",
+    "image": "images/lot33_part00.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part00.pgm",
+    "prediction": 1,
+    "score": 0.9362741767232913,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot33_part01",
+    "image": "images/lot33_part01.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part01.pgm",
+    "prediction": 0,
+    "score": 0.058393404827192893,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part02",
+    "image": "images/lot33_part02.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part02.pgm",
+    "prediction": 0,
+    "score": 0.06781193919358712,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part03",
+    "image": "images/lot33_part03.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part03.pgm",
+    "prediction": 0,
+    "score": 0.15402675948456362,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot33_part04",
+    "image": "images/lot33_part04.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part04.pgm",
+    "prediction": 0,
+    "score": 0.06027316524216499,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part05",
+    "image": "images/lot33_part05.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part05.pgm",
+    "prediction": 0,
+    "score": 0.05659119324974,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part06",
+    "image": "images/lot33_part06.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part06.pgm",
+    "prediction": 0,
+    "score": 0.1884142848261733,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot33_part07",
+    "image": "images/lot33_part07.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part07.pgm",
+    "prediction": 0,
+    "score": 0.0413402434424435,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part08",
+    "image": "images/lot33_part08.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part08.pgm",
+    "prediction": 0,
+    "score": 0.052847363709456495,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part09",
+    "image": "images/lot33_part09.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part09.pgm",
+    "prediction": 0,
+    "score": 0.12183064753500333,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot33_part10",
+    "image": "images/lot33_part10.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part10.pgm",
+    "prediction": 0,
+    "score": 0.05658239139833818,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot33_part11",
+    "image": "images/lot33_part11.pgm",
+    "lot": 33,
+    "mask": "masks/lot33_part11.pgm",
+    "prediction": 0,
+    "score": 0.07215036190317706,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part00",
+    "image": "images/lot34_part00.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part00.pgm",
+    "prediction": 1,
+    "score": 0.907906106395556,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot34_part01",
+    "image": "images/lot34_part01.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part01.pgm",
+    "prediction": 1,
+    "score": 0.26186045766491806,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part02",
+    "image": "images/lot34_part02.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part02.pgm",
+    "prediction": 1,
+    "score": 0.40730247633396865,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part03",
+    "image": "images/lot34_part03.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part03.pgm",
+    "prediction": 1,
+    "score": 0.76990219286724,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot34_part04",
+    "image": "images/lot34_part04.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part04.pgm",
+    "prediction": 0,
+    "score": 0.19553431960136636,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part05",
+    "image": "images/lot34_part05.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part05.pgm",
+    "prediction": 1,
+    "score": 0.28669067549146865,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part06",
+    "image": "images/lot34_part06.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part06.pgm",
+    "prediction": 1,
+    "score": 0.701695482865589,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot34_part07",
+    "image": "images/lot34_part07.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part07.pgm",
+    "prediction": 1,
+    "score": 0.21590648840112506,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part08",
+    "image": "images/lot34_part08.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part08.pgm",
+    "prediction": 1,
+    "score": 0.35396429573188415,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part09",
+    "image": "images/lot34_part09.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part09.pgm",
+    "prediction": 1,
+    "score": 0.4481591588573853,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot34_part10",
+    "image": "images/lot34_part10.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part10.pgm",
+    "prediction": 1,
+    "score": 0.30884767816248554,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot34_part11",
+    "image": "images/lot34_part11.pgm",
+    "lot": 34,
+    "mask": "masks/lot34_part11.pgm",
+    "prediction": 1,
+    "score": 0.34441265687381917,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part00",
+    "image": "images/lot35_part00.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part00.pgm",
+    "prediction": 1,
+    "score": 0.8728986904901143,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot35_part01",
+    "image": "images/lot35_part01.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part01.pgm",
+    "prediction": 0,
+    "score": 0.09150185426783458,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part02",
+    "image": "images/lot35_part02.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part02.pgm",
+    "prediction": 0,
+    "score": 0.1606874750889817,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part03",
+    "image": "images/lot35_part03.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part03.pgm",
+    "prediction": 1,
+    "score": 0.596397670147178,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot35_part04",
+    "image": "images/lot35_part04.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part04.pgm",
+    "prediction": 1,
+    "score": 0.2219893842523824,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part05",
+    "image": "images/lot35_part05.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part05.pgm",
+    "prediction": 0,
+    "score": 0.2007514852064113,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part06",
+    "image": "images/lot35_part06.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part06.pgm",
+    "prediction": 1,
+    "score": 0.7600869806727099,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot35_part07",
+    "image": "images/lot35_part07.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part07.pgm",
+    "prediction": 0,
+    "score": 0.11559614357853738,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part08",
+    "image": "images/lot35_part08.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part08.pgm",
+    "prediction": 0,
+    "score": 0.14772984452887877,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part09",
+    "image": "images/lot35_part09.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part09.pgm",
+    "prediction": 1,
+    "score": 0.3954439856427332,
+    "split": "test",
+    "target": 1
+  },
+  {
+    "id": "lot35_part10",
+    "image": "images/lot35_part10.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part10.pgm",
+    "prediction": 0,
+    "score": 0.14014219718341597,
+    "split": "test",
+    "target": 0
+  },
+  {
+    "id": "lot35_part11",
+    "image": "images/lot35_part11.pgm",
+    "lot": 35,
+    "mask": "masks/lot35_part11.pgm",
+    "prediction": 0,
+    "score": 0.2026320808929283,
+    "split": "test",
+    "target": 0
+  }
+]

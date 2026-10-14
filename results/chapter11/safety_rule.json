@@ -1,0 +1,23 @@
+{
+  "events": [
+    "person-2"
+  ],
+  "input": [
+    {
+      "helmet": true,
+      "id": "person-1",
+      "inside_hazard_zone": true
+    },
+    {
+      "helmet": false,
+      "id": "person-2",
+      "inside_hazard_zone": true
+    },
+    {
+      "helmet": false,
+      "id": "person-3",
+      "inside_hazard_zone": false
+    }
+  ],
+  "origin": "synthetic fixture"
+}

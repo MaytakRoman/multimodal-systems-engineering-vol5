@@ -1,0 +1,81 @@
+{
+  "chapter": 11,
+  "data_origin": "synthetic",
+  "limitation": "Synthetic grayscale scratches, hand-crafted features and logistic regression. No real factory, neural defect detector, PPE recognizer or economic effect is measured.",
+  "model_scope": "educational numerical implementation; no pretrained weights",
+  "safety_events": [
+    "person-2"
+  ],
+  "samples": 432,
+  "seed": 2026,
+  "split_lots": {
+    "test": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "train": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "validation": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  "split_sizes": {
+    "test": 144,
+    "train": 216,
+    "validation": 72
+  },
+  "test": {
+    "accuracy": 0.7291666666666666,
+    "f1": 0.6548672566371682,
+    "fn": 11,
+    "fp": 28,
+    "precision": 0.5692307692307692,
+    "recall": 0.7708333333333334,
+    "tn": 68,
+    "tp": 37
+  },
+  "threshold": 0.2051398122470898,
+  "validation": {
+    "accuracy": 0.9305555555555556,
+    "f1": 0.9019607843137256,
+    "fn": 1,
+    "fp": 4,
+    "precision": 0.8518518518518519,
+    "recall": 0.9583333333333334,
+    "tn": 44,
+    "tp": 23
+  }
+}
