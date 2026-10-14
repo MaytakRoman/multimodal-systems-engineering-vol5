@@ -1,0 +1,31 @@
+test_attention_convex_combination (__main__.Contracts.test_attention_convex_combination) ... ok
+test_budget_and_claim_identity (__main__.Contracts.test_budget_and_claim_identity) ... ok
+test_contrastive_pairs_and_duplicates (__main__.Contracts.test_contrastive_pairs_and_duplicates) ... ok
+test_coordinate_contract (__main__.Contracts.test_coordinate_contract) ... ok
+test_decimal_invoice (__main__.Contracts.test_decimal_invoice) ... ok
+test_diffusion_endpoints (__main__.Contracts.test_diffusion_endpoints) ... ok
+test_empty_masks_and_overlap (__main__.Contracts.test_empty_masks_and_overlap) ... ok
+test_events_not_frame_count (__main__.Contracts.test_events_not_frame_count) ... ok
+test_final_may_confirm_same_revision (__main__.Contracts.test_final_may_confirm_same_revision) ... ok
+test_final_revision_exactly_once (__main__.Contracts.test_final_revision_exactly_once) ... ok
+test_flow_convergence_and_student (__main__.Contracts.test_flow_convergence_and_student) ... ok
+test_metrics_and_validation_threshold (__main__.Contracts.test_metrics_and_validation_threshold) ... ok
+test_missing_modality_has_no_influence (__main__.Contracts.test_missing_modality_has_no_influence) ... ok
+test_navigation_avoids_wall (__main__.Contracts.test_navigation_avoids_wall) ... ok
+test_no_accepted_claim_has_undefined_risk (__main__.Contracts.test_no_accepted_claim_has_undefined_risk) ... ok
+test_patch_order (__main__.Contracts.test_patch_order) ... ok
+test_pgm_roundtrip_and_feature_constant (__main__.Contracts.test_pgm_roundtrip_and_feature_constant) ... ok
+test_queue_drops_new_and_bounds_latency (__main__.Contracts.test_queue_drops_new_and_bounds_latency) ... ok
+test_rows_and_units (__main__.Contracts.test_rows_and_units) ... ok
+test_speaker_permutation_not_error (__main__.Contracts.test_speaker_permutation_not_error) ... ok
+test_training_restores_from_json_compatible_model (__main__.Contracts.test_training_restores_from_json_compatible_model) ... ok
+test_vad_silence (__main__.Contracts.test_vad_silence) ... ok
+test_wer_insertion_deletion (__main__.Contracts.test_wer_insertion_deletion) ... ok
+test_window_coverage (__main__.Contracts.test_window_coverage) ... ok
+test_world_dynamics (__main__.Contracts.test_world_dynamics) ... ok
+test_zero_channel_quantization (__main__.Contracts.test_zero_channel_quantization) ... ok
+
+----------------------------------------------------------------------
+Ran 26 tests in 0.063s
+
+OK
