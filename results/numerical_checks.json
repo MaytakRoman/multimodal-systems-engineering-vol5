@@ -1,0 +1,11 @@
+{
+  "attention_ratio_double_resolution": 16.0,
+  "context_remaining": 1844,
+  "fp16_7b_weight_bytes": 14000000000,
+  "int8_7b_weight_bytes_without_scales": 7000000000,
+  "lora_4096_rank8_parameters": 65536,
+  "mask_iou_80_intersection_120_union": 0.6666666666666666,
+  "mono_pcm_16khz_16bit_bytes_per_second": 32000,
+  "vision_tokens_224_patch16": 196,
+  "vision_tokens_448_patch16": 784
+}
