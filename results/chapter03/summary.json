@@ -1,0 +1,67 @@
+{
+  "budget": {
+    "fits": true,
+    "remaining": 1844,
+    "used": 6348
+  },
+  "chapter": 3,
+  "data_origin": "synthetic",
+  "gate": [
+    {
+      "claim": {
+        "attribute": "red",
+        "object_id": "pump-17"
+      },
+      "status": "accepted"
+    },
+    {
+      "claim": {
+        "attribute": "red",
+        "object_id": "pump-18"
+      },
+      "status": "wrong_object"
+    },
+    {
+      "claim": {
+        "attribute": "green",
+        "object_id": "pump-17"
+      },
+      "status": "unsupported_attribute"
+    }
+  ],
+  "limitation": "No VLM inference or training; observed attributes and confidence are synthetic inputs.",
+  "model_scope": "educational numerical implementation; no pretrained weights",
+  "risk_coverage": [
+    {
+      "accepted": 200,
+      "coverage": 1.0,
+      "risk": 0.225,
+      "threshold": 0
+    },
+    {
+      "accepted": 183,
+      "coverage": 0.915,
+      "risk": 0.15300546448087432,
+      "threshold": 0.5
+    },
+    {
+      "accepted": 125,
+      "coverage": 0.625,
+      "risk": 0.056,
+      "threshold": 0.75
+    },
+    {
+      "accepted": 40,
+      "coverage": 0.2,
+      "risk": 0.0,
+      "threshold": 0.9
+    },
+    {
+      "accepted": 0,
+      "coverage": 0.0,
+      "risk": null,
+      "threshold": 1
+    }
+  ],
+  "seed": 2026
+}
