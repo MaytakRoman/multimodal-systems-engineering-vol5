@@ -1,0 +1,38 @@
+{
+  "chapter": 9,
+  "data_origin": "synthetic",
+  "limitation": "Symbolic parser and perfect grid observation; not a neural VLA, physical robot or real-world transfer result.",
+  "model_scope": "educational numerical implementation; no pretrained weights",
+  "policy": "BFS with replanning",
+  "seed": 2026,
+  "transfer": [
+    {
+      "collisions": 0,
+      "episodes": 60,
+      "mean_steps": 18.0,
+      "slip": 0,
+      "successes": 60
+    },
+    {
+      "collisions": 10,
+      "episodes": 60,
+      "mean_steps": 20.5,
+      "slip": 0.1,
+      "successes": 60
+    },
+    {
+      "collisions": 40,
+      "episodes": 60,
+      "mean_steps": 26.333333333333332,
+      "slip": 0.3,
+      "successes": 60
+    },
+    {
+      "collisions": 109,
+      "episodes": 60,
+      "mean_steps": 36.45,
+      "slip": 0.5,
+      "successes": 60
+    }
+  ]
+}
