@@ -1,0 +1,261 @@
+[
+  {
+    "section": "1",
+    "title": "Мультимодальность: архитектурные схемы",
+    "relative_path": "docs/chapter01.md",
+    "code_path": "mmbook/fusion.py",
+    "run_script": "chapter01_fusion.py"
+  },
+  {
+    "section": "1.1",
+    "title": "Раннее, позднее и промежуточное объединение модальностей",
+    "relative_path": "docs/chapter01.md",
+    "code_path": "mmbook/fusion.py",
+    "run_script": "chapter01_fusion.py"
+  },
+  {
+    "section": "1.2",
+    "title": "Общие пространства представлений: контрастивное обучение (CLIP и аналоги)",
+    "relative_path": "docs/chapter01.md",
+    "code_path": "mmbook/fusion.py",
+    "run_script": "chapter01_fusion.py"
+  },
+  {
+    "section": "2",
+    "title": "Компьютерное зрение в эпоху больших моделей",
+    "relative_path": "docs/chapter02.md",
+    "code_path": "mmbook/vision.py",
+    "run_script": "chapter02_vision.py"
+  },
+  {
+    "section": "2.1",
+    "title": "Визуальные трансформеры и самообучение",
+    "relative_path": "docs/chapter02.md",
+    "code_path": "mmbook/vision.py",
+    "run_script": "chapter02_vision.py"
+  },
+  {
+    "section": "2.2",
+    "title": "Детекция и сегментация по текстовому запросу",
+    "relative_path": "docs/chapter02.md",
+    "code_path": "mmbook/vision.py",
+    "run_script": "chapter02_vision.py"
+  },
+  {
+    "section": "2.3",
+    "title": "Дообучение визуальных моделей под домен",
+    "relative_path": "docs/chapter02.md",
+    "code_path": "mmbook/vision.py",
+    "run_script": "chapter02_vision.py"
+  },
+  {
+    "section": "3",
+    "title": "Визуально-языковые модели",
+    "relative_path": "docs/chapter03.md",
+    "code_path": "mmbook/vlm.py",
+    "run_script": "chapter03_vlm.py"
+  },
+  {
+    "section": "3.1",
+    "title": "Связка визуального кодировщика и языковой модели",
+    "relative_path": "docs/chapter03.md",
+    "code_path": "mmbook/vlm.py",
+    "run_script": "chapter03_vlm.py"
+  },
+  {
+    "section": "3.2",
+    "title": "Данные и этапы обучения",
+    "relative_path": "docs/chapter03.md",
+    "code_path": "mmbook/vlm.py",
+    "run_script": "chapter03_vlm.py"
+  },
+  {
+    "section": "3.3",
+    "title": "Визуальные галлюцинации и их контроль",
+    "relative_path": "docs/chapter03.md",
+    "code_path": "mmbook/vlm.py",
+    "run_script": "chapter03_vlm.py"
+  },
+  {
+    "section": "4",
+    "title": "Понимание документов",
+    "relative_path": "docs/chapter04.md",
+    "code_path": "mmbook/documents.py",
+    "run_script": "chapter04_documents.py"
+  },
+  {
+    "section": "4.1",
+    "title": "Распознавание текста, таблиц, формул",
+    "relative_path": "docs/chapter04.md",
+    "code_path": "mmbook/documents.py",
+    "run_script": "chapter04_documents.py"
+  },
+  {
+    "section": "4.2",
+    "title": "Чертежи, схемы и техническая документация",
+    "relative_path": "docs/chapter04.md",
+    "code_path": "mmbook/documents.py",
+    "run_script": "chapter04_documents.py"
+  },
+  {
+    "section": "5",
+    "title": "Речь",
+    "relative_path": "docs/chapter05.md",
+    "code_path": "mmbook/speech.py",
+    "run_script": "chapter05_speech.py"
+  },
+  {
+    "section": "5.1",
+    "title": "Распознавание речи и диаризация",
+    "relative_path": "docs/chapter05.md",
+    "code_path": "mmbook/speech.py",
+    "run_script": "chapter05_speech.py"
+  },
+  {
+    "section": "5.2",
+    "title": "Синтез речи и клонирование голоса: практика и этика",
+    "relative_path": "docs/chapter05.md",
+    "code_path": "mmbook/speech.py",
+    "run_script": "chapter05_speech.py"
+  },
+  {
+    "section": "5.3",
+    "title": "Голосовые ассистенты в реальном времени",
+    "relative_path": "docs/chapter05.md",
+    "code_path": "mmbook/speech.py",
+    "run_script": "chapter05_speech.py"
+  },
+  {
+    "section": "6",
+    "title": "Видео",
+    "relative_path": "docs/chapter06.md",
+    "code_path": "mmbook/video.py",
+    "run_script": "chapter06_video.py"
+  },
+  {
+    "section": "6.1",
+    "title": "Понимание длинного видео",
+    "relative_path": "docs/chapter06.md",
+    "code_path": "mmbook/video.py",
+    "run_script": "chapter06_video.py"
+  },
+  {
+    "section": "6.2",
+    "title": "Видеоаналитика: события, аномалии, подсчёт",
+    "relative_path": "docs/chapter06.md",
+    "code_path": "mmbook/video.py",
+    "run_script": "chapter06_video.py"
+  },
+  {
+    "section": "7",
+    "title": "Генерация изображений",
+    "relative_path": "docs/chapter07.md",
+    "code_path": "mmbook/generation.py",
+    "run_script": "chapter07_generation.py"
+  },
+  {
+    "section": "7.1",
+    "title": "Диффузионные модели и согласование потоков на практике",
+    "relative_path": "docs/chapter07.md",
+    "code_path": "mmbook/generation.py",
+    "run_script": "chapter07_generation.py"
+  },
+  {
+    "section": "7.2",
+    "title": "Управляемая генерация и дообучение под стиль",
+    "relative_path": "docs/chapter07.md",
+    "code_path": "mmbook/generation.py",
+    "run_script": "chapter07_generation.py"
+  },
+  {
+    "section": "7.3",
+    "title": "Ускорение генерации: дистилляция шагов",
+    "relative_path": "docs/chapter07.md",
+    "code_path": "mmbook/generation.py",
+    "run_script": "chapter07_generation.py"
+  },
+  {
+    "section": "8",
+    "title": "Генерация видео, звука и 3D",
+    "relative_path": "docs/chapter08.md",
+    "code_path": "mmbook/media.py",
+    "run_script": "chapter08_media.py"
+  },
+  {
+    "section": "8.1",
+    "title": "Видеомодели и модели мира",
+    "relative_path": "docs/chapter08.md",
+    "code_path": "mmbook/media.py",
+    "run_script": "chapter08_media.py"
+  },
+  {
+    "section": "8.2",
+    "title": "Генерация звука и музыки, 3D-сцен",
+    "relative_path": "docs/chapter08.md",
+    "code_path": "mmbook/media.py",
+    "run_script": "chapter08_media.py"
+  },
+  {
+    "section": "9",
+    "title": "Мультимодальные агенты и робототехника",
+    "relative_path": "docs/chapter09.md",
+    "code_path": "mmbook/robotics.py",
+    "run_script": "chapter09_robotics.py"
+  },
+  {
+    "section": "9.1",
+    "title": "Модели «зрение — язык — действие»",
+    "relative_path": "docs/chapter09.md",
+    "code_path": "mmbook/robotics.py",
+    "run_script": "chapter09_robotics.py"
+  },
+  {
+    "section": "9.2",
+    "title": "Перенос из симуляции в реальный мир",
+    "relative_path": "docs/chapter09.md",
+    "code_path": "mmbook/robotics.py",
+    "run_script": "chapter09_robotics.py"
+  },
+  {
+    "section": "10",
+    "title": "Эффективность и развёртывание на устройствах",
+    "relative_path": "docs/chapter10.md",
+    "code_path": "mmbook/deployment.py",
+    "run_script": "chapter10_deployment.py"
+  },
+  {
+    "section": "10.1",
+    "title": "Сжатие мультимодальных моделей",
+    "relative_path": "docs/chapter10.md",
+    "code_path": "mmbook/deployment.py",
+    "run_script": "chapter10_deployment.py"
+  },
+  {
+    "section": "10.2",
+    "title": "Вывод на периферийных устройствах и промышленных камерах",
+    "relative_path": "docs/chapter10.md",
+    "code_path": "mmbook/deployment.py",
+    "run_script": "chapter10_deployment.py"
+  },
+  {
+    "section": "11",
+    "title": "Кейс: визуальный контроль на производстве",
+    "relative_path": "docs/chapter11.md",
+    "code_path": "mmbook/industrial.py",
+    "run_script": "reference_multimodal.py"
+  },
+  {
+    "section": "11.1",
+    "title": "Дефектоскопия и контроль безопасности персонала",
+    "relative_path": "docs/chapter11.md",
+    "code_path": "mmbook/industrial.py",
+    "run_script": "reference_multimodal.py"
+  },
+  {
+    "section": "11.2",
+    "title": "Сбор данных, обучение, внедрение, эффект",
+    "relative_path": "docs/chapter11.md",
+    "code_path": "mmbook/industrial.py",
+    "run_script": "reference_multimodal.py"
+  }
+]
