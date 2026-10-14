@@ -1,0 +1,36 @@
+{
+  "chapter": 7,
+  "data_origin": "synthetic",
+  "integration": [
+    {
+      "mse_to_exact": 4.037092082244211,
+      "steps": 1
+    },
+    {
+      "mse_to_exact": 0.057364400356937365,
+      "steps": 2
+    },
+    {
+      "mse_to_exact": 0.01661514029070196,
+      "steps": 4
+    },
+    {
+      "mse_to_exact": 0.003885594637683473,
+      "steps": 8
+    },
+    {
+      "mse_to_exact": 0.0009339300198876717,
+      "steps": 16
+    },
+    {
+      "mse_to_exact": 5.6604874332025904e-05,
+      "steps": 64
+    }
+  ],
+  "limitation": "Analytic 2D vector field; this is not a trained image diffusion or flow-matching network. No image-quality metric is claimed.",
+  "model_scope": "educational numerical implementation; no pretrained weights",
+  "seed": 2026,
+  "student_mse_to_teacher": 9.5964274303955e-31,
+  "test_samples": 128,
+  "train_samples": 256
+}
