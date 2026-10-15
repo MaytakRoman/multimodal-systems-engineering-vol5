@@ -1,0 +1,40 @@
+{
+  "seed": 2027,
+  "shape": [
+    48,
+    64
+  ],
+  "rank_numeric": 48,
+  "rows": [
+    {
+      "rank": 4,
+      "weight_relative_frobenius": 0.8685687184333801,
+      "output_relative_frobenius": 0.8927657008171082,
+      "two_factor_fp32_bytes": 1792
+    },
+    {
+      "rank": 8,
+      "weight_relative_frobenius": 0.7585933804512024,
+      "output_relative_frobenius": 0.7707764506340027,
+      "two_factor_fp32_bytes": 3584
+    },
+    {
+      "rank": 16,
+      "weight_relative_frobenius": 0.5655316114425659,
+      "output_relative_frobenius": 0.5800437927246094,
+      "two_factor_fp32_bytes": 7168
+    },
+    {
+      "rank": 32,
+      "weight_relative_frobenius": 0.24229450523853302,
+      "output_relative_frobenius": 0.24715261161327362,
+      "two_factor_fp32_bytes": 14336
+    },
+    {
+      "rank": 48,
+      "weight_relative_frobenius": 1.6209745012929488e-07,
+      "output_relative_frobenius": 2.167609949310645e-07,
+      "two_factor_fp32_bytes": 21504
+    }
+  ]
+}
