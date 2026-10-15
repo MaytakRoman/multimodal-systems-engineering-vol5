@@ -257,5 +257,68 @@
     "relative_path": "docs/chapter11.md",
     "code_path": "mmbook/industrial.py",
     "run_script": "reference_multimodal.py"
+  },
+  {
+    "section": "1.2",
+    "title": "CLIP: три фотографии",
+    "relative_path": "README_REVIEW.md",
+    "code_path": "real_models.py",
+    "run_script": "real_models.py",
+    "results_path": "review_results/open_models/clip_retrieval.json",
+    "edition": "1.1"
+  },
+  {
+    "section": "5.1",
+    "title": "Whisper tiny",
+    "relative_path": "README_REVIEW.md",
+    "code_path": "real_models.py",
+    "run_script": "real_models.py",
+    "results_path": "review_results/open_models/whisper_asr.json",
+    "edition": "1.1"
+  },
+  {
+    "section": "9.1",
+    "title": "Обязательный проход и неоднозначная команда",
+    "relative_path": "README_REVIEW.md",
+    "code_path": "review_robotics.py",
+    "run_script": "review_robotics.py",
+    "results_path": "review_results/robotics/summary.json",
+    "edition": "1.1"
+  },
+  {
+    "section": "10.1",
+    "title": "Матрица полного ранга",
+    "relative_path": "README_REVIEW.md",
+    "code_path": "review_deployment.py",
+    "run_script": "review_deployment.py",
+    "results_path": "review_results/full_rank_svd.json",
+    "edition": "1.1"
+  },
+  {
+    "section": "10.2",
+    "title": "Профиль CPU CLIP",
+    "relative_path": "README_REVIEW.md",
+    "code_path": "real_models.py",
+    "run_script": "real_models.py",
+    "results_path": "review_results/open_models/cpu_profile.json",
+    "edition": "1.1"
+  },
+  {
+    "section": "11.2",
+    "title": "Партии и групповой бутстреп",
+    "relative_path": "README_REVIEW.md",
+    "code_path": "review_industrial.py",
+    "run_script": "review_industrial.py",
+    "results_path": "review_results/industrial/summary.json",
+    "edition": "1.1"
+  },
+  {
+    "section": "11.3",
+    "title": "Три канала и погрешность датчика",
+    "relative_path": "README_REVIEW.md",
+    "code_path": "review_industrial.py",
+    "run_script": "review_industrial.py",
+    "results_path": "review_results/industrial/summary.json",
+    "edition": "1.1"
   }
 ]

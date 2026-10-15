@@ -32,3 +32,13 @@
 | 10.2 Вывод на периферийных устройствах и промышленных камерах | [docs/chapter10.md](docs/chapter10.md) | [mmbook/deployment.py](mmbook/deployment.py) |
 | 11.1 Дефектоскопия и контроль безопасности персонала | [docs/chapter11.md](docs/chapter11.md) | [mmbook/industrial.py](mmbook/industrial.py) |
 | 11.2 Сбор данных, обучение, внедрение, эффект | [docs/chapter11.md](docs/chapter11.md) | [mmbook/industrial.py](mmbook/industrial.py) |
+
+## Дополнение 1.1
+
+- 1.2 — CLIP: три фотографии: [real_models.py](real_models.py), [review_results/open_models/clip_retrieval.json](review_results/open_models/clip_retrieval.json).
+- 5.1 — Whisper tiny: [real_models.py](real_models.py), [review_results/open_models/whisper_asr.json](review_results/open_models/whisper_asr.json).
+- 9.1 — Обязательный проход и неоднозначная команда: [review_robotics.py](review_robotics.py), [review_results/robotics/summary.json](review_results/robotics/summary.json).
+- 10.1 — Матрица полного ранга: [review_deployment.py](review_deployment.py), [review_results/full_rank_svd.json](review_results/full_rank_svd.json).
+- 10.2 — Профиль CPU CLIP: [real_models.py](real_models.py), [review_results/open_models/cpu_profile.json](review_results/open_models/cpu_profile.json).
+- 11.2 — Партии и групповой бутстреп: [review_industrial.py](review_industrial.py), [review_results/industrial/summary.json](review_results/industrial/summary.json).
+- 11.3 — Три канала и погрешность датчика: [review_industrial.py](review_industrial.py), [review_results/industrial/summary.json](review_results/industrial/summary.json).

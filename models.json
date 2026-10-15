@@ -1,0 +1,40 @@
+{
+  "openai/clip-vit-base-patch32": {
+    "sha": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+    "files": [
+      ".gitattributes",
+      "README.md",
+      "config.json",
+      "flax_model.msgpack",
+      "merges.txt",
+      "preprocessor_config.json",
+      "pytorch_model.bin",
+      "special_tokens_map.json",
+      "tf_model.h5",
+      "tokenizer.json",
+      "tokenizer_config.json",
+      "vocab.json"
+    ]
+  },
+  "openai/whisper-tiny": {
+    "sha": "169d4a4341b33bc18d8881c4b69c2e104e1cc0af",
+    "files": [
+      ".gitattributes",
+      "README.md",
+      "added_tokens.json",
+      "config.json",
+      "flax_model.msgpack",
+      "generation_config.json",
+      "merges.txt",
+      "model.safetensors",
+      "normalizer.json",
+      "preprocessor_config.json",
+      "pytorch_model.bin",
+      "special_tokens_map.json",
+      "tf_model.h5",
+      "tokenizer.json",
+      "tokenizer_config.json",
+      "vocab.json"
+    ]
+  }
+}
