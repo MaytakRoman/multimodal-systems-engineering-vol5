@@ -1,0 +1,2540 @@
+[
+  {
+    "id": "lot24_part00",
+    "lot": 24,
+    "image": "images/lot24_part00.pgm",
+    "image_score": 0.6487890839172618,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": null,
+    "target_joint": 1,
+    "status": "review",
+    "valid_join": false
+  },
+  {
+    "id": "lot24_part01",
+    "lot": 24,
+    "image": "images/lot24_part01.pgm",
+    "image_score": 0.2496275555563683,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot24_part01",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot24_part02",
+    "lot": 24,
+    "image": "images/lot24_part02.pgm",
+    "image_score": 0.4183869535310994,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot24_part02",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 17.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot24_part03",
+    "lot": 24,
+    "image": "images/lot24_part03.pgm",
+    "image_score": 0.9337369646551771,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot24_part03-other",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "review",
+    "valid_join": false
+  },
+  {
+    "id": "lot24_part04",
+    "lot": 24,
+    "image": "images/lot24_part04.pgm",
+    "image_score": 0.13448371926017408,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot24_part04",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot24_part05",
+    "lot": 24,
+    "image": "images/lot24_part05.pgm",
+    "image_score": 0.1295591708179843,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot24_part05",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot24_part06",
+    "lot": 24,
+    "image": "images/lot24_part06.pgm",
+    "image_score": 0.4669261085555163,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot24_part06",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot24_part07",
+    "lot": 24,
+    "image": "images/lot24_part07.pgm",
+    "image_score": 0.16619874841743995,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot24_part07",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot24_part08",
+    "lot": 24,
+    "image": "images/lot24_part08.pgm",
+    "image_score": 0.19448984020698193,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot24_part08",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot24_part09",
+    "lot": 24,
+    "image": "images/lot24_part09.pgm",
+    "image_score": 0.9604121478674784,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot24_part09",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 13.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot24_part10",
+    "lot": 24,
+    "image": "images/lot24_part10.pgm",
+    "image_score": 0.15308148102291416,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot24_part10",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 15.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot24_part11",
+    "lot": 24,
+    "image": "images/lot24_part11.pgm",
+    "image_score": 0.29149925910640984,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot24_part11",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot25_part00",
+    "lot": 25,
+    "image": "images/lot25_part00.pgm",
+    "image_score": 0.6291589670556467,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot25_part00",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot25_part01",
+    "lot": 25,
+    "image": "images/lot25_part01.pgm",
+    "image_score": 0.036776759525876,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot25_part01",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 15.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot25_part02",
+    "lot": 25,
+    "image": "images/lot25_part02.pgm",
+    "image_score": 0.04328848151130489,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot25_part02",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot25_part03",
+    "lot": 25,
+    "image": "images/lot25_part03.pgm",
+    "image_score": 0.10355179149493605,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot25_part03",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot25_part04",
+    "lot": 25,
+    "image": "images/lot25_part04.pgm",
+    "image_score": 0.07784277643858935,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot25_part04",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot25_part05",
+    "lot": 25,
+    "image": "images/lot25_part05.pgm",
+    "image_score": 0.038645656500947596,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": null,
+    "target_joint": 0,
+    "status": "review",
+    "valid_join": false
+  },
+  {
+    "id": "lot25_part06",
+    "lot": 25,
+    "image": "images/lot25_part06.pgm",
+    "image_score": 0.2804431404051073,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot25_part06",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot25_part07",
+    "lot": 25,
+    "image": "images/lot25_part07.pgm",
+    "image_score": 0.031032209135715957,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot25_part07",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot25_part08",
+    "lot": 25,
+    "image": "images/lot25_part08.pgm",
+    "image_score": 0.0342048041798246,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot25_part08",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot25_part09",
+    "lot": 25,
+    "image": "images/lot25_part09.pgm",
+    "image_score": 0.5066426999752278,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot25_part09",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 13.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot25_part10",
+    "lot": 25,
+    "image": "images/lot25_part10.pgm",
+    "image_score": 0.038247057257845135,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot25_part10",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 15.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot25_part11",
+    "lot": 25,
+    "image": "images/lot25_part11.pgm",
+    "image_score": 0.03530093808886515,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot25_part11",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot26_part00",
+    "lot": 26,
+    "image": "images/lot26_part00.pgm",
+    "image_score": 0.7218706919625175,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot26_part00",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot26_part01",
+    "lot": 26,
+    "image": "images/lot26_part01.pgm",
+    "image_score": 0.07871793442634364,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot26_part01",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot26_part02",
+    "lot": 26,
+    "image": "images/lot26_part02.pgm",
+    "image_score": 0.07386640294078568,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot26_part02",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 17.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot26_part03",
+    "lot": 26,
+    "image": "images/lot26_part03.pgm",
+    "image_score": 0.93529997563605,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot26_part03",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot26_part04",
+    "lot": 26,
+    "image": "images/lot26_part04.pgm",
+    "image_score": 0.08298875516913035,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot26_part04",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot26_part05",
+    "lot": 26,
+    "image": "images/lot26_part05.pgm",
+    "image_score": 0.08385959972997854,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot26_part05",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot26_part06",
+    "lot": 26,
+    "image": "images/lot26_part06.pgm",
+    "image_score": 0.1669931281419056,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot26_part06",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot26_part07",
+    "lot": 26,
+    "image": "images/lot26_part07.pgm",
+    "image_score": 0.06919675315600751,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot26_part07",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot26_part08",
+    "lot": 26,
+    "image": "images/lot26_part08.pgm",
+    "image_score": 0.0716155673888358,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot26_part08-other",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "review",
+    "valid_join": false
+  },
+  {
+    "id": "lot26_part09",
+    "lot": 26,
+    "image": "images/lot26_part09.pgm",
+    "image_score": 0.1579919835024584,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot26_part09",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 13.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot26_part10",
+    "lot": 26,
+    "image": "images/lot26_part10.pgm",
+    "image_score": 0.07663332148619799,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": null,
+    "target_joint": 0,
+    "status": "review",
+    "valid_join": false
+  },
+  {
+    "id": "lot26_part11",
+    "lot": 26,
+    "image": "images/lot26_part11.pgm",
+    "image_score": 0.09689705937835916,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot26_part11",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 17.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot27_part00",
+    "lot": 27,
+    "image": "images/lot27_part00.pgm",
+    "image_score": 0.44540210885958303,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot27_part00",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot27_part01",
+    "lot": 27,
+    "image": "images/lot27_part01.pgm",
+    "image_score": 0.35274629644774025,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot27_part01",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot27_part02",
+    "lot": 27,
+    "image": "images/lot27_part02.pgm",
+    "image_score": 0.34378877359104487,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot27_part02",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot27_part03",
+    "lot": 27,
+    "image": "images/lot27_part03.pgm",
+    "image_score": 0.263090778545382,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot27_part03",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 13.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot27_part04",
+    "lot": 27,
+    "image": "images/lot27_part04.pgm",
+    "image_score": 0.23819916962900403,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot27_part04",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 15.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot27_part05",
+    "lot": 27,
+    "image": "images/lot27_part05.pgm",
+    "image_score": 0.2078505746616601,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot27_part05",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot27_part06",
+    "lot": 27,
+    "image": "images/lot27_part06.pgm",
+    "image_score": 0.8136571235343885,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot27_part06",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot27_part07",
+    "lot": 27,
+    "image": "images/lot27_part07.pgm",
+    "image_score": 0.3045869383397575,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot27_part07",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot27_part08",
+    "lot": 27,
+    "image": "images/lot27_part08.pgm",
+    "image_score": 0.26028412913599996,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot27_part08",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot27_part09",
+    "lot": 27,
+    "image": "images/lot27_part09.pgm",
+    "image_score": 0.985278484604192,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot27_part09",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot27_part10",
+    "lot": 27,
+    "image": "images/lot27_part10.pgm",
+    "image_score": 0.2896589524408223,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot27_part10",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot27_part11",
+    "lot": 27,
+    "image": "images/lot27_part11.pgm",
+    "image_score": 0.3094989070862421,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot27_part11",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot28_part00",
+    "lot": 28,
+    "image": "images/lot28_part00.pgm",
+    "image_score": 0.8538556934231957,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot28_part00",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot28_part01",
+    "lot": 28,
+    "image": "images/lot28_part01.pgm",
+    "image_score": 0.3311134345557874,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot28_part01",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot28_part02",
+    "lot": 28,
+    "image": "images/lot28_part02.pgm",
+    "image_score": 0.5250591079597587,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot28_part02",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot28_part03",
+    "lot": 28,
+    "image": "images/lot28_part03.pgm",
+    "image_score": 0.9467591031007204,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": null,
+    "target_joint": 1,
+    "status": "review",
+    "valid_join": false
+  },
+  {
+    "id": "lot28_part04",
+    "lot": 28,
+    "image": "images/lot28_part04.pgm",
+    "image_score": 0.5855530211864619,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot28_part04",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot28_part05",
+    "lot": 28,
+    "image": "images/lot28_part05.pgm",
+    "image_score": 0.37613155293654815,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot28_part05",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot28_part06",
+    "lot": 28,
+    "image": "images/lot28_part06.pgm",
+    "image_score": 0.7244269539072227,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot28_part06",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot28_part07",
+    "lot": 28,
+    "image": "images/lot28_part07.pgm",
+    "image_score": 0.6050436417884478,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot28_part07",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot28_part08",
+    "lot": 28,
+    "image": "images/lot28_part08.pgm",
+    "image_score": 0.4024901931702033,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot28_part08",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot28_part09",
+    "lot": 28,
+    "image": "images/lot28_part09.pgm",
+    "image_score": 0.5196110011649996,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot28_part09",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot28_part10",
+    "lot": 28,
+    "image": "images/lot28_part10.pgm",
+    "image_score": 0.6165799738025112,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot28_part10",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot28_part11",
+    "lot": 28,
+    "image": "images/lot28_part11.pgm",
+    "image_score": 0.5562365661826223,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot28_part11",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 17.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot29_part00",
+    "lot": 29,
+    "image": "images/lot29_part00.pgm",
+    "image_score": 0.1624312602569448,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot29_part00",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 13.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot29_part01",
+    "lot": 29,
+    "image": "images/lot29_part01.pgm",
+    "image_score": 0.11245528515386205,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot29_part01-other",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "review",
+    "valid_join": false
+  },
+  {
+    "id": "lot29_part02",
+    "lot": 29,
+    "image": "images/lot29_part02.pgm",
+    "image_score": 0.11897507690450361,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot29_part02",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot29_part03",
+    "lot": 29,
+    "image": "images/lot29_part03.pgm",
+    "image_score": 0.5250103592338742,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot29_part03",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 13.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot29_part04",
+    "lot": 29,
+    "image": "images/lot29_part04.pgm",
+    "image_score": 0.10007868212210536,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot29_part04",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot29_part05",
+    "lot": 29,
+    "image": "images/lot29_part05.pgm",
+    "image_score": 0.11746758459321965,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot29_part05",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot29_part06",
+    "lot": 29,
+    "image": "images/lot29_part06.pgm",
+    "image_score": 0.8025642527250215,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot29_part06",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot29_part07",
+    "lot": 29,
+    "image": "images/lot29_part07.pgm",
+    "image_score": 0.1764560972227278,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot29_part07",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot29_part08",
+    "lot": 29,
+    "image": "images/lot29_part08.pgm",
+    "image_score": 0.20625146050378143,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": null,
+    "target_joint": 0,
+    "status": "review",
+    "valid_join": false
+  },
+  {
+    "id": "lot29_part09",
+    "lot": 29,
+    "image": "images/lot29_part09.pgm",
+    "image_score": 0.6271553307027743,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot29_part09",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot29_part10",
+    "lot": 29,
+    "image": "images/lot29_part10.pgm",
+    "image_score": 0.13066956705808275,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot29_part10",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot29_part11",
+    "lot": 29,
+    "image": "images/lot29_part11.pgm",
+    "image_score": 0.1308397124667232,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot29_part11",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 17.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot30_part00",
+    "lot": 30,
+    "image": "images/lot30_part00.pgm",
+    "image_score": 0.18546753105242436,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot30_part00",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot30_part01",
+    "lot": 30,
+    "image": "images/lot30_part01.pgm",
+    "image_score": 0.07829355710533092,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot30_part01",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot30_part02",
+    "lot": 30,
+    "image": "images/lot30_part02.pgm",
+    "image_score": 0.11980969598087812,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot30_part02",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot30_part03",
+    "lot": 30,
+    "image": "images/lot30_part03.pgm",
+    "image_score": 0.23696896522652638,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot30_part03",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot30_part04",
+    "lot": 30,
+    "image": "images/lot30_part04.pgm",
+    "image_score": 0.10327171742893938,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot30_part04",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot30_part05",
+    "lot": 30,
+    "image": "images/lot30_part05.pgm",
+    "image_score": 0.07989763250359913,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot30_part05",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot30_part06",
+    "lot": 30,
+    "image": "images/lot30_part06.pgm",
+    "image_score": 0.6218116241252936,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot30_part06",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot30_part07",
+    "lot": 30,
+    "image": "images/lot30_part07.pgm",
+    "image_score": 0.07007745721461944,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot30_part07",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot30_part08",
+    "lot": 30,
+    "image": "images/lot30_part08.pgm",
+    "image_score": 0.12836366908078997,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot30_part08",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot30_part09",
+    "lot": 30,
+    "image": "images/lot30_part09.pgm",
+    "image_score": 0.3086941344513773,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot30_part09",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot30_part10",
+    "lot": 30,
+    "image": "images/lot30_part10.pgm",
+    "image_score": 0.08487026659909536,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot30_part10",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 15.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot30_part11",
+    "lot": 30,
+    "image": "images/lot30_part11.pgm",
+    "image_score": 0.07260221291812088,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot30_part11",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot31_part00",
+    "lot": 31,
+    "image": "images/lot31_part00.pgm",
+    "image_score": 0.13521630486332548,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot31_part00",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot31_part01",
+    "lot": 31,
+    "image": "images/lot31_part01.pgm",
+    "image_score": 0.03825853347607493,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": null,
+    "target_joint": 0,
+    "status": "review",
+    "valid_join": false
+  },
+  {
+    "id": "lot31_part02",
+    "lot": 31,
+    "image": "images/lot31_part02.pgm",
+    "image_score": 0.05095786869061931,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot31_part02",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 17.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot31_part03",
+    "lot": 31,
+    "image": "images/lot31_part03.pgm",
+    "image_score": 0.1681522364109092,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot31_part03",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot31_part04",
+    "lot": 31,
+    "image": "images/lot31_part04.pgm",
+    "image_score": 0.05963646204884354,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot31_part04",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot31_part05",
+    "lot": 31,
+    "image": "images/lot31_part05.pgm",
+    "image_score": 0.06943949840755842,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot31_part05",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot31_part06",
+    "lot": 31,
+    "image": "images/lot31_part06.pgm",
+    "image_score": 0.15014697515510206,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot31_part06-other",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "review",
+    "valid_join": false
+  },
+  {
+    "id": "lot31_part07",
+    "lot": 31,
+    "image": "images/lot31_part07.pgm",
+    "image_score": 0.05118341172554614,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot31_part07",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot31_part08",
+    "lot": 31,
+    "image": "images/lot31_part08.pgm",
+    "image_score": 0.06127335729930591,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot31_part08",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot31_part09",
+    "lot": 31,
+    "image": "images/lot31_part09.pgm",
+    "image_score": 0.24513247113835915,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot31_part09",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot31_part10",
+    "lot": 31,
+    "image": "images/lot31_part10.pgm",
+    "image_score": 0.05227955607129264,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot31_part10",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot31_part11",
+    "lot": 31,
+    "image": "images/lot31_part11.pgm",
+    "image_score": 0.04870910684450096,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot31_part11",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot32_part00",
+    "lot": 32,
+    "image": "images/lot32_part00.pgm",
+    "image_score": 0.5588563446811727,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot32_part00",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot32_part01",
+    "lot": 32,
+    "image": "images/lot32_part01.pgm",
+    "image_score": 0.05406974405629788,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot32_part01",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot32_part02",
+    "lot": 32,
+    "image": "images/lot32_part02.pgm",
+    "image_score": 0.08718229741588286,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot32_part02",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot32_part03",
+    "lot": 32,
+    "image": "images/lot32_part03.pgm",
+    "image_score": 0.44461507396071526,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot32_part03",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 13.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot32_part04",
+    "lot": 32,
+    "image": "images/lot32_part04.pgm",
+    "image_score": 0.06545940215015957,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot32_part04",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 15.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot32_part05",
+    "lot": 32,
+    "image": "images/lot32_part05.pgm",
+    "image_score": 0.05549836629528672,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot32_part05",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot32_part06",
+    "lot": 32,
+    "image": "images/lot32_part06.pgm",
+    "image_score": 0.6294272495576312,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": null,
+    "target_joint": 1,
+    "status": "review",
+    "valid_join": false
+  },
+  {
+    "id": "lot32_part07",
+    "lot": 32,
+    "image": "images/lot32_part07.pgm",
+    "image_score": 0.08068266019730454,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot32_part07",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot32_part08",
+    "lot": 32,
+    "image": "images/lot32_part08.pgm",
+    "image_score": 0.10397056534568024,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot32_part08",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot32_part09",
+    "lot": 32,
+    "image": "images/lot32_part09.pgm",
+    "image_score": 0.9201473123651731,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot32_part09",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 13.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot32_part10",
+    "lot": 32,
+    "image": "images/lot32_part10.pgm",
+    "image_score": 0.1341506316391706,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot32_part10",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot32_part11",
+    "lot": 32,
+    "image": "images/lot32_part11.pgm",
+    "image_score": 0.05650293139878887,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot32_part11",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot33_part00",
+    "lot": 33,
+    "image": "images/lot33_part00.pgm",
+    "image_score": 0.9362741767232913,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot33_part00",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot33_part01",
+    "lot": 33,
+    "image": "images/lot33_part01.pgm",
+    "image_score": 0.058393404827192893,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot33_part01",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 15.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot33_part02",
+    "lot": 33,
+    "image": "images/lot33_part02.pgm",
+    "image_score": 0.06781193919358712,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot33_part02",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 17.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot33_part03",
+    "lot": 33,
+    "image": "images/lot33_part03.pgm",
+    "image_score": 0.15402675948456362,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot33_part03",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot33_part04",
+    "lot": 33,
+    "image": "images/lot33_part04.pgm",
+    "image_score": 0.06027316524216499,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot33_part04",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 15.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot33_part05",
+    "lot": 33,
+    "image": "images/lot33_part05.pgm",
+    "image_score": 0.05659119324974,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot33_part05",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot33_part06",
+    "lot": 33,
+    "image": "images/lot33_part06.pgm",
+    "image_score": 0.1884142848261733,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot33_part06",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 13.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot33_part07",
+    "lot": 33,
+    "image": "images/lot33_part07.pgm",
+    "image_score": 0.0413402434424435,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot33_part07",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot33_part08",
+    "lot": 33,
+    "image": "images/lot33_part08.pgm",
+    "image_score": 0.052847363709456495,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot33_part08",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot33_part09",
+    "lot": 33,
+    "image": "images/lot33_part09.pgm",
+    "image_score": 0.12183064753500333,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot33_part09",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot33_part10",
+    "lot": 33,
+    "image": "images/lot33_part10.pgm",
+    "image_score": 0.05658239139833818,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot33_part10",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot33_part11",
+    "lot": 33,
+    "image": "images/lot33_part11.pgm",
+    "image_score": 0.07215036190317706,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": null,
+    "target_joint": 0,
+    "status": "review",
+    "valid_join": false
+  },
+  {
+    "id": "lot34_part00",
+    "lot": 34,
+    "image": "images/lot34_part00.pgm",
+    "image_score": 0.907906106395556,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot34_part00",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot34_part01",
+    "lot": 34,
+    "image": "images/lot34_part01.pgm",
+    "image_score": 0.26186045766491806,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot34_part01",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot34_part02",
+    "lot": 34,
+    "image": "images/lot34_part02.pgm",
+    "image_score": 0.40730247633396865,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot34_part02",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot34_part03",
+    "lot": 34,
+    "image": "images/lot34_part03.pgm",
+    "image_score": 0.76990219286724,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot34_part03",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot34_part04",
+    "lot": 34,
+    "image": "images/lot34_part04.pgm",
+    "image_score": 0.19553431960136636,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot34_part04",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot34_part05",
+    "lot": 34,
+    "image": "images/lot34_part05.pgm",
+    "image_score": 0.28669067549146865,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot34_part05",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 17.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot34_part06",
+    "lot": 34,
+    "image": "images/lot34_part06.pgm",
+    "image_score": 0.701695482865589,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot34_part06",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 13.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot34_part07",
+    "lot": 34,
+    "image": "images/lot34_part07.pgm",
+    "image_score": 0.21590648840112506,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot34_part07",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 15.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot34_part08",
+    "lot": 34,
+    "image": "images/lot34_part08.pgm",
+    "image_score": 0.35396429573188415,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot34_part08",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 17.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot34_part09",
+    "lot": 34,
+    "image": "images/lot34_part09.pgm",
+    "image_score": 0.4481591588573853,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot34_part09",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 13.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot34_part10",
+    "lot": 34,
+    "image": "images/lot34_part10.pgm",
+    "image_score": 0.30884767816248554,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot34_part10",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot34_part11",
+    "lot": 34,
+    "image": "images/lot34_part11.pgm",
+    "image_score": 0.34441265687381917,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot34_part11",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot35_part00",
+    "lot": 35,
+    "image": "images/lot35_part00.pgm",
+    "image_score": 0.8728986904901143,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot35_part00",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot35_part01",
+    "lot": 35,
+    "image": "images/lot35_part01.pgm",
+    "image_score": 0.09150185426783458,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot35_part01",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 12.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot35_part02",
+    "lot": 35,
+    "image": "images/lot35_part02.pgm",
+    "image_score": 0.1606874750889817,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot35_part02",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 17.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot35_part03",
+    "lot": 35,
+    "image": "images/lot35_part03.pgm",
+    "image_score": 0.596397670147178,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot35_part03",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot35_part04",
+    "lot": 35,
+    "image": "images/lot35_part04.pgm",
+    "image_score": 0.2219893842523824,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": null,
+    "target_joint": 1,
+    "status": "review",
+    "valid_join": false
+  },
+  {
+    "id": "lot35_part05",
+    "lot": 35,
+    "image": "images/lot35_part05.pgm",
+    "image_score": 0.2007514852064113,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot35_part05",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot35_part06",
+    "lot": 35,
+    "image": "images/lot35_part06.pgm",
+    "image_score": 0.7600869806727099,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot35_part06",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot35_part07",
+    "lot": 35,
+    "image": "images/lot35_part07.pgm",
+    "image_score": 0.11559614357853738,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot35_part07",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 15.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot35_part08",
+    "lot": 35,
+    "image": "images/lot35_part08.pgm",
+    "image_score": 0.14772984452887877,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot35_part08",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  },
+  {
+    "id": "lot35_part09",
+    "lot": 35,
+    "image": "images/lot35_part09.pgm",
+    "image_score": 0.3954439856427332,
+    "image_prediction": 1,
+    "route": "Операция: затяжка; станция: S1; момент: [8.0; 12.0] Н·м",
+    "event": {
+      "part_id": "lot35_part09",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 10.0,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot35_part10",
+    "lot": 35,
+    "image": "images/lot35_part10.pgm",
+    "image_score": 0.14014219718341597,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [10.0; 14.0] Н·м",
+    "event": {
+      "part_id": "lot35_part10",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 15.5,
+      "age_ms": 150
+    },
+    "target_joint": 1,
+    "status": "reject",
+    "valid_join": true
+  },
+  {
+    "id": "lot35_part11",
+    "lot": 35,
+    "image": "images/lot35_part11.pgm",
+    "image_score": 0.2026320808929283,
+    "image_prediction": 0,
+    "route": "Операция: затяжка; станция: S1; момент: [12.0; 16.0] Н·м",
+    "event": {
+      "part_id": "lot35_part11",
+      "operation": "затяжка",
+      "station": "S1",
+      "torque_nm": 14.0,
+      "age_ms": 150
+    },
+    "target_joint": 0,
+    "status": "accept",
+    "valid_join": true
+  }
+]

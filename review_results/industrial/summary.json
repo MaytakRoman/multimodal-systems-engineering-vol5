@@ -1,0 +1,293 @@
+{
+  "seed": 2026,
+  "scope": "synthetic images, controlled text grammar and simulated equipment events; no field deployment",
+  "n": 144,
+  "covered": 131,
+  "coverage": 0.9097222222222222,
+  "review": 13,
+  "image_only_on_same_covered": {
+    "tp": 39,
+    "fp": 20,
+    "fn": 25,
+    "tn": 47,
+    "precision": 0.6610169491525424,
+    "recall": 0.609375,
+    "f1": 0.6341463414634146,
+    "accuracy": 0.6564885496183206
+  },
+  "fusion_on_covered": {
+    "tp": 57,
+    "fp": 20,
+    "fn": 7,
+    "tn": 47,
+    "precision": 0.7402597402597403,
+    "recall": 0.890625,
+    "f1": 0.8085106382978724,
+    "accuracy": 0.7938931297709924
+  },
+  "visual_test_by_lot": [
+    {
+      "lot": 24,
+      "n": 12,
+      "tp": 4,
+      "fp": 3,
+      "fn": 0,
+      "tn": 5,
+      "precision": 0.5714285714285714,
+      "recall": 1.0,
+      "f1": 0.7272727272727273,
+      "accuracy": 0.75
+    },
+    {
+      "lot": 25,
+      "n": 12,
+      "tp": 3,
+      "fp": 0,
+      "fn": 1,
+      "tn": 8,
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1": 0.8571428571428571,
+      "accuracy": 0.9166666666666666
+    },
+    {
+      "lot": 26,
+      "n": 12,
+      "tp": 2,
+      "fp": 0,
+      "fn": 2,
+      "tn": 8,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6666666666666666,
+      "accuracy": 0.8333333333333334
+    },
+    {
+      "lot": 27,
+      "n": 12,
+      "tp": 4,
+      "fp": 8,
+      "fn": 0,
+      "tn": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1": 0.5,
+      "accuracy": 0.3333333333333333
+    },
+    {
+      "lot": 28,
+      "n": 12,
+      "tp": 4,
+      "fp": 8,
+      "fn": 0,
+      "tn": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1": 0.5,
+      "accuracy": 0.3333333333333333
+    },
+    {
+      "lot": 29,
+      "n": 12,
+      "tp": 3,
+      "fp": 1,
+      "fn": 1,
+      "tn": 7,
+      "precision": 0.75,
+      "recall": 0.75,
+      "f1": 0.75,
+      "accuracy": 0.8333333333333334
+    },
+    {
+      "lot": 30,
+      "n": 12,
+      "tp": 3,
+      "fp": 0,
+      "fn": 1,
+      "tn": 8,
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1": 0.8571428571428571,
+      "accuracy": 0.9166666666666666
+    },
+    {
+      "lot": 31,
+      "n": 12,
+      "tp": 1,
+      "fp": 0,
+      "fn": 3,
+      "tn": 8,
+      "precision": 1.0,
+      "recall": 0.25,
+      "f1": 0.4,
+      "accuracy": 0.75
+    },
+    {
+      "lot": 32,
+      "n": 12,
+      "tp": 4,
+      "fp": 0,
+      "fn": 0,
+      "tn": 8,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "accuracy": 1.0
+    },
+    {
+      "lot": 33,
+      "n": 12,
+      "tp": 1,
+      "fp": 0,
+      "fn": 3,
+      "tn": 8,
+      "precision": 1.0,
+      "recall": 0.25,
+      "f1": 0.4,
+      "accuracy": 0.75
+    },
+    {
+      "lot": 34,
+      "n": 12,
+      "tp": 4,
+      "fp": 7,
+      "fn": 0,
+      "tn": 1,
+      "precision": 0.36363636363636365,
+      "recall": 1.0,
+      "f1": 0.5333333333333333,
+      "accuracy": 0.4166666666666667
+    },
+    {
+      "lot": 35,
+      "n": 12,
+      "tp": 4,
+      "fp": 1,
+      "fn": 0,
+      "tn": 7,
+      "precision": 0.8,
+      "recall": 1.0,
+      "f1": 0.888888888888889,
+      "accuracy": 0.9166666666666666
+    }
+  ],
+  "visual_test_cluster_bootstrap": {
+    "repeats": 20000,
+    "seed": 2026,
+    "groups": 12,
+    "method": "percentile, 2.5/97.5%, linear quantile, fixed fitted model and validation threshold",
+    "ci95": {
+      "f1": [
+        0.5611510791366906,
+        0.7735849056603774
+      ],
+      "precision": [
+        0.4418604651162791,
+        0.8048780487804879
+      ],
+      "recall": [
+        0.6041666666666666,
+        0.9166666666666666
+      ],
+      "accuracy": [
+        0.5902777777777778,
+        0.8472222222222222
+      ]
+    }
+  },
+  "sensor_noise": {
+    "seed": 2028,
+    "distribution": "additive Gaussian N(0,sigma^2), independent across objects; shared standard normal draws across sigma levels",
+    "n": 131,
+    "target": "unchanged true scratch OR true torque violation",
+    "rows": [
+      {
+        "sigma_nm": 0.0,
+        "tp": 57,
+        "fp": 20,
+        "fn": 7,
+        "tn": 47,
+        "precision": 0.7402597402597403,
+        "recall": 0.890625,
+        "f1": 0.8085106382978724,
+        "accuracy": 0.7938931297709924
+      },
+      {
+        "sigma_nm": 0.5,
+        "tp": 57,
+        "fp": 20,
+        "fn": 7,
+        "tn": 47,
+        "precision": 0.7402597402597403,
+        "recall": 0.890625,
+        "f1": 0.8085106382978724,
+        "accuracy": 0.7938931297709924
+      },
+      {
+        "sigma_nm": 1.0,
+        "tp": 57,
+        "fp": 20,
+        "fn": 7,
+        "tn": 47,
+        "precision": 0.7402597402597403,
+        "recall": 0.890625,
+        "f1": 0.8085106382978724,
+        "accuracy": 0.7938931297709924
+      },
+      {
+        "sigma_nm": 2.0,
+        "tp": 58,
+        "fp": 31,
+        "fn": 6,
+        "tn": 36,
+        "precision": 0.651685393258427,
+        "recall": 0.90625,
+        "f1": 0.758169934640523,
+        "accuracy": 0.7175572519083969
+      }
+    ],
+    "monte_carlo_repetitions": 1000,
+    "monte_carlo": [
+      {
+        "sigma_nm": 0.0,
+        "mean_fp": 20.0,
+        "mean_fn": 7.0,
+        "mean_f1": 0.808510638297872,
+        "f1_percentile_2_5_97_5": [
+          0.8085106382978723,
+          0.8085106382978723
+        ]
+      },
+      {
+        "sigma_nm": 0.5,
+        "mean_fp": 20.003,
+        "mean_fn": 7.016,
+        "mean_f1": 0.8083571445510654,
+        "f1_percentile_2_5_97_5": [
+          0.8085106382978723,
+          0.8085106382978723
+        ]
+      },
+      {
+        "sigma_nm": 1.0,
+        "mean_fp": 22.169,
+        "mean_fn": 7.883,
+        "mean_f1": 0.7887958208474959,
+        "f1_percentile_2_5_97_5": [
+          0.762589928057554,
+          0.8111888111888111
+        ]
+      },
+      {
+        "sigma_nm": 2.0,
+        "mean_fp": 34.657,
+        "mean_fn": 8.73,
+        "mean_f1": 0.7181689293761392,
+        "f1_percentile_2_5_97_5": [
+          0.6710505093378608,
+          0.7643312101910829
+        ]
+      }
+    ]
+  }
+}

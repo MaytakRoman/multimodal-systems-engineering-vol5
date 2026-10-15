@@ -1,0 +1,4214 @@
+[
+  {
+    "sigma_nm": 0.0,
+    "objects": [
+      {
+        "id": "lot24_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.2396740420055622,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.5,
+        "noise_standard_normal": 1.172213673479167,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -1.4851627060498052,
+        "prediction": 0
+      },
+      {
+        "id": "lot24_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": -1.7814327505251506,
+        "prediction": 0
+      },
+      {
+        "id": "lot24_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -0.9445938529649326,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": 0.43043446081624226,
+        "prediction": 0
+      },
+      {
+        "id": "lot24_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": -0.5715671411775856,
+        "prediction": 0
+      },
+      {
+        "id": "lot24_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.5,
+        "noise_standard_normal": 1.3214249475455309,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.5,
+        "noise_standard_normal": 0.16809866093149237,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.6307162279463185,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": 0.1502842838931388,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part01",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.5,
+        "noise_standard_normal": 0.41248461888252846,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.36239122613057045,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -2.7615073877661036,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": 0.15555858279545773,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": 0.9321132446971836,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.2207375722641921,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.488588262743708,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.5,
+        "noise_standard_normal": -0.9481241558591718,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.5,
+        "noise_standard_normal": -0.7146768605589241,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 1.248427315367079,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -2.1336369364785637,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.03906250048892515,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.5,
+        "noise_standard_normal": -1.0843687982844843,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": 0.05678550317398023,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -1.0425416000057088,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 1.289308251693894,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": 2.138323373654456,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": 0.24071625920262207,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.5,
+        "noise_standard_normal": 1.9378445369908261,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part11",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.5,
+        "noise_standard_normal": -2.073506590598704,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": 0.36347400529663104,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -1.4240505891198119,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": -0.2672285097992727,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part03",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.5,
+        "noise_standard_normal": -0.3006400785903083,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part04",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.5,
+        "noise_standard_normal": 2.09571587134855,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.006208326231702763,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -0.015033826687628522,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.44394605511836455,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 2.127692554648696,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -0.4240048572406304,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": 0.3700235975787912,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.898551303789605,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": 0.3589806553606105,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": 1.820725470111148,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": -0.8121315182610391,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -2.1009951128266575,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": -1.3780117972947958,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": 0.02001793889002178,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.46218613992295793,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 1.2377144493770562,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": 1.177875014514607,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": 0.962629838988368,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part11",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.5,
+        "noise_standard_normal": 0.13072476044538828,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part00",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.5,
+        "noise_standard_normal": 1.9314847990820372,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": -0.9874357433032319,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part03",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.5,
+        "noise_standard_normal": 0.4937823879778005,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.5779143243413968,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.917038964254944,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -0.41854407812728983,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -1.3092925068531114,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -0.5590543616191028,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.5215880539897791,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part11",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.5,
+        "noise_standard_normal": -0.7486515409483239,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": 0.0022365394551919367,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": 0.31426207775963844,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 1.0701984543900334,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -1.3308777960942624,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.18091520815325052,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 1.5293510887051243,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -0.46454848190195885,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": 0.8538134167079513,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.5808023610068513,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -0.8209867199643387,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.5,
+        "noise_standard_normal": 0.024546185737675925,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.17040286069290475,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": 1.1561870116309743,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.5,
+        "noise_standard_normal": -0.49509270750373174,
+        "prediction": 1
+      },
+      {
+        "id": "lot31_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": 1.032870594504135,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.4267067543980312,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 1.6047076315762914,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.4789608791924942,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": -0.3753276845779145,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -1.3255664136969736,
+        "prediction": 1
+      },
+      {
+        "id": "lot31_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": 0.12392397966521826,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.12080533738415308,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": 0.4830769030012466,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.5880897502229276,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.5220265677144639,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part03",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.5,
+        "noise_standard_normal": -1.4114387533959283,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part04",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.5,
+        "noise_standard_normal": 1.5782680755504228,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.5250369565060664,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.47106960455076685,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": -0.2585503701981243,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.5,
+        "noise_standard_normal": -1.2500459629581757,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -1.4630892550891106,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.18080134946746051,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": 0.7967302584010213,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part01",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.5,
+        "noise_standard_normal": -1.8615137849737362,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.5,
+        "noise_standard_normal": 1.6012756254703115,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -1.241204645754944,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part04",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.5,
+        "noise_standard_normal": 0.6291473467813038,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.3407002294864082,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part06",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.5,
+        "noise_standard_normal": -1.2267019707821931,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -1.2093176613667727,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.04991579511520386,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -0.8053977714583456,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.6787450070948585,
+        "prediction": 0
+      },
+      {
+        "id": "lot34_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -0.21101923458157662,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": 0.4968635692706051,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": -1.2908865942371706,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": 0.7737959546941059,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.31501189020961823,
+        "prediction": 0
+      },
+      {
+        "id": "lot34_part05",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.5,
+        "noise_standard_normal": -2.132333787211489,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part06",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.5,
+        "noise_standard_normal": -0.5274481505870422,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part07",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.5,
+        "noise_standard_normal": 0.1823820843285899,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part08",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.5,
+        "noise_standard_normal": -0.3748181656198241,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.5,
+        "noise_standard_normal": 0.06595441093271773,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": -0.15535342176186837,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": -0.20099027997757846,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -0.6658249794090044,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.0,
+        "noise_standard_normal": 0.04331420270441502,
+        "prediction": 0
+      },
+      {
+        "id": "lot35_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.5,
+        "noise_standard_normal": -0.06599455791234814,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -0.00042318465133710513,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.4956032216469778,
+        "prediction": 0
+      },
+      {
+        "id": "lot35_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -0.3186140088305814,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part07",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.5,
+        "noise_standard_normal": 0.47248403336100153,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": -0.7089484800445486,
+        "prediction": 0
+      },
+      {
+        "id": "lot35_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.0,
+        "noise_standard_normal": -0.08200969369650553,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.5,
+        "noise_standard_normal": 2.6981246335326468,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.0,
+        "noise_standard_normal": 0.1838206923956963,
+        "prediction": 0
+      }
+    ]
+  },
+  {
+    "sigma_nm": 0.5,
+    "objects": [
+      {
+        "id": "lot24_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.88016297899722,
+        "noise_standard_normal": -0.2396740420055622,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 18.086106836739585,
+        "noise_standard_normal": 1.172213673479167,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.257418646975097,
+        "noise_standard_normal": -1.4851627060498052,
+        "prediction": 0
+      },
+      {
+        "id": "lot24_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.109283624737424,
+        "noise_standard_normal": -1.7814327505251506,
+        "prediction": 0
+      },
+      {
+        "id": "lot24_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.527703073517534,
+        "noise_standard_normal": -0.9445938529649326,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.215217230408122,
+        "noise_standard_normal": 0.43043446081624226,
+        "prediction": 0
+      },
+      {
+        "id": "lot24_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.714216429411207,
+        "noise_standard_normal": -0.5715671411775856,
+        "prediction": 0
+      },
+      {
+        "id": "lot24_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 14.160712473772765,
+        "noise_standard_normal": 1.3214249475455309,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.584049330465746,
+        "noise_standard_normal": 0.16809866093149237,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.31535811397316,
+        "noise_standard_normal": 0.6307162279463185,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.07514214194657,
+        "noise_standard_normal": 0.1502842838931388,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part01",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.706242309441265,
+        "noise_standard_normal": 0.41248461888252846,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.181195613065285,
+        "noise_standard_normal": 0.36239122613057045,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 8.619246306116949,
+        "noise_standard_normal": -2.7615073877661036,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.077779291397729,
+        "noise_standard_normal": 0.15555858279545773,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.466056622348592,
+        "noise_standard_normal": 0.9321132446971836,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.889631213867904,
+        "noise_standard_normal": -0.2207375722641921,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.244294131371854,
+        "noise_standard_normal": 0.488588262743708,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.025937922070414,
+        "noise_standard_normal": -0.9481241558591718,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.142661569720538,
+        "noise_standard_normal": -0.7146768605589241,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.624213657683539,
+        "noise_standard_normal": 1.248427315367079,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 8.933181531760718,
+        "noise_standard_normal": -2.1336369364785637,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.980468749755538,
+        "noise_standard_normal": -0.03906250048892515,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 16.957815600857757,
+        "noise_standard_normal": -1.0843687982844843,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.02839275158699,
+        "noise_standard_normal": 0.05678550317398023,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.478729199997145,
+        "noise_standard_normal": -1.0425416000057088,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.644654125846946,
+        "noise_standard_normal": 1.289308251693894,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 11.069161686827227,
+        "noise_standard_normal": 2.138323373654456,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.12035812960131,
+        "noise_standard_normal": 0.24071625920262207,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 14.468922268495414,
+        "noise_standard_normal": 1.9378445369908261,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part11",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 16.463246704700648,
+        "noise_standard_normal": -2.073506590598704,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.181737002648315,
+        "noise_standard_normal": 0.36347400529663104,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.287974705440094,
+        "noise_standard_normal": -1.4240505891198119,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.866385745100363,
+        "noise_standard_normal": -0.2672285097992727,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part03",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.349679960704846,
+        "noise_standard_normal": -0.3006400785903083,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part04",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 16.547857935674276,
+        "noise_standard_normal": 2.09571587134855,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.003104163115852,
+        "noise_standard_normal": 0.006208326231702763,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.992483086656186,
+        "noise_standard_normal": -0.015033826687628522,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.778026972440818,
+        "noise_standard_normal": -0.44394605511836455,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 15.063846277324348,
+        "noise_standard_normal": 2.127692554648696,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.787997571379686,
+        "noise_standard_normal": -0.4240048572406304,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.185011798789395,
+        "noise_standard_normal": 0.3700235975787912,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.449275651894803,
+        "noise_standard_normal": 0.898551303789605,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.179490327680305,
+        "noise_standard_normal": 0.3589806553606105,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.910362735055575,
+        "noise_standard_normal": 1.820725470111148,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.59393424086948,
+        "noise_standard_normal": -0.8121315182610391,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 10.94950244358667,
+        "noise_standard_normal": -2.1009951128266575,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.310994101352602,
+        "noise_standard_normal": -1.3780117972947958,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.01000896944501,
+        "noise_standard_normal": 0.02001793889002178,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.76890693003852,
+        "noise_standard_normal": -0.46218613992295793,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.618857224688528,
+        "noise_standard_normal": 1.2377144493770562,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.588937507257304,
+        "noise_standard_normal": 1.177875014514607,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.481314919494183,
+        "noise_standard_normal": 0.962629838988368,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part11",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.565362380222695,
+        "noise_standard_normal": 0.13072476044538828,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part00",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 14.465742399541018,
+        "noise_standard_normal": 1.9314847990820372,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.506282128348385,
+        "noise_standard_normal": -0.9874357433032319,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part03",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.746891193988901,
+        "noise_standard_normal": 0.4937823879778005,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.711042837829302,
+        "noise_standard_normal": -0.5779143243413968,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.458519482127471,
+        "noise_standard_normal": 0.917038964254944,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.790727960936355,
+        "noise_standard_normal": -0.41854407812728983,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.345353746573444,
+        "noise_standard_normal": -1.3092925068531114,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.720472819190448,
+        "noise_standard_normal": -0.5590543616191028,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.739205973005111,
+        "noise_standard_normal": -0.5215880539897791,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part11",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.12567422952584,
+        "noise_standard_normal": -0.7486515409483239,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.001118269727597,
+        "noise_standard_normal": 0.0022365394551919367,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.15713103887982,
+        "noise_standard_normal": 0.31426207775963844,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.535099227195017,
+        "noise_standard_normal": 1.0701984543900334,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.334561101952868,
+        "noise_standard_normal": -1.3308777960942624,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.909542395923374,
+        "noise_standard_normal": -0.18091520815325052,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.764675544352562,
+        "noise_standard_normal": 1.5293510887051243,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.767725759049021,
+        "noise_standard_normal": -0.46454848190195885,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.426906708353975,
+        "noise_standard_normal": 0.8538134167079513,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.290401180503427,
+        "noise_standard_normal": 0.5808023610068513,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.58950664001783,
+        "noise_standard_normal": -0.8209867199643387,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.512273092868838,
+        "noise_standard_normal": 0.024546185737675925,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.085201430346453,
+        "noise_standard_normal": 0.17040286069290475,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.578093505815486,
+        "noise_standard_normal": 1.1561870116309743,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.252453646248135,
+        "noise_standard_normal": -0.49509270750373174,
+        "prediction": 1
+      },
+      {
+        "id": "lot31_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.516435297252068,
+        "noise_standard_normal": 1.032870594504135,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.786646622800985,
+        "noise_standard_normal": -0.4267067543980312,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.802353815788146,
+        "noise_standard_normal": 1.6047076315762914,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.760519560403752,
+        "noise_standard_normal": -0.4789608791924942,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.812336157711043,
+        "noise_standard_normal": -0.3753276845779145,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.337216793151514,
+        "noise_standard_normal": -1.3255664136969736,
+        "prediction": 1
+      },
+      {
+        "id": "lot31_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.061961989832609,
+        "noise_standard_normal": 0.12392397966521826,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.060402668692076,
+        "noise_standard_normal": 0.12080533738415308,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.241538451500624,
+        "noise_standard_normal": 0.4830769030012466,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.705955124888536,
+        "noise_standard_normal": -0.5880897502229276,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.261013283857231,
+        "noise_standard_normal": 0.5220265677144639,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part03",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 12.794280623302036,
+        "noise_standard_normal": -1.4114387533959283,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part04",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 16.289134037775213,
+        "noise_standard_normal": 1.5782680755504228,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.262518478253034,
+        "noise_standard_normal": 0.5250369565060664,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.764465197724617,
+        "noise_standard_normal": -0.47106960455076685,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.870724814900937,
+        "noise_standard_normal": -0.2585503701981243,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 12.874977018520912,
+        "noise_standard_normal": -1.2500459629581757,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.268455372455445,
+        "noise_standard_normal": -1.4630892550891106,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.090400674733731,
+        "noise_standard_normal": 0.18080134946746051,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.39836512920051,
+        "noise_standard_normal": 0.7967302584010213,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part01",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 14.569243107513131,
+        "noise_standard_normal": -1.8615137849737362,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 18.300637812735157,
+        "noise_standard_normal": 1.6012756254703115,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.379397677122528,
+        "noise_standard_normal": -1.241204645754944,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part04",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.814573673390651,
+        "noise_standard_normal": 0.6291473467813038,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.170350114743204,
+        "noise_standard_normal": 0.3407002294864082,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part06",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 12.886649014608903,
+        "noise_standard_normal": -1.2267019707821931,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.395341169316614,
+        "noise_standard_normal": -1.2093176613667727,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.024957897557602,
+        "noise_standard_normal": 0.04991579511520386,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.597301114270827,
+        "noise_standard_normal": -0.8053977714583456,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.660627496452571,
+        "noise_standard_normal": -0.6787450070948585,
+        "prediction": 0
+      },
+      {
+        "id": "lot34_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.894490382709211,
+        "noise_standard_normal": -0.21101923458157662,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.248431784635303,
+        "noise_standard_normal": 0.4968635692706051,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.354556702881414,
+        "noise_standard_normal": -1.2908865942371706,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.386897977347052,
+        "noise_standard_normal": 0.7737959546941059,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.842494054895191,
+        "noise_standard_normal": -0.31501189020961823,
+        "prediction": 0
+      },
+      {
+        "id": "lot34_part05",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 16.433833106394257,
+        "noise_standard_normal": -2.132333787211489,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part06",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.23627592470648,
+        "noise_standard_normal": -0.5274481505870422,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part07",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.591191042164295,
+        "noise_standard_normal": 0.1823820843285899,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part08",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.31259091719009,
+        "noise_standard_normal": -0.3748181656198241,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.53297720546636,
+        "noise_standard_normal": 0.06595441093271773,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.922323289119065,
+        "noise_standard_normal": -0.15535342176186837,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.899504860011211,
+        "noise_standard_normal": -0.20099027997757846,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.667087510295497,
+        "noise_standard_normal": -0.6658249794090044,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.021657101352208,
+        "noise_standard_normal": 0.04331420270441502,
+        "prediction": 0
+      },
+      {
+        "id": "lot35_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.467002721043826,
+        "noise_standard_normal": -0.06599455791234814,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.999788407674332,
+        "noise_standard_normal": -0.00042318465133710513,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.247801610823489,
+        "noise_standard_normal": 0.4956032216469778,
+        "prediction": 0
+      },
+      {
+        "id": "lot35_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.840692995584709,
+        "noise_standard_normal": -0.3186140088305814,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part07",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.736242016680501,
+        "noise_standard_normal": 0.47248403336100153,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.645525759977726,
+        "noise_standard_normal": -0.7089484800445486,
+        "prediction": 0
+      },
+      {
+        "id": "lot35_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.958995153151747,
+        "noise_standard_normal": -0.08200969369650553,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 16.84906231676632,
+        "noise_standard_normal": 2.6981246335326468,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.091910346197848,
+        "noise_standard_normal": 0.1838206923956963,
+        "prediction": 0
+      }
+    ]
+  },
+  {
+    "sigma_nm": 1.0,
+    "objects": [
+      {
+        "id": "lot24_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.760325957994437,
+        "noise_standard_normal": -0.2396740420055622,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 18.672213673479167,
+        "noise_standard_normal": 1.172213673479167,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 10.514837293950194,
+        "noise_standard_normal": -1.4851627060498052,
+        "prediction": 0
+      },
+      {
+        "id": "lot24_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 12.21856724947485,
+        "noise_standard_normal": -1.7814327505251506,
+        "prediction": 0
+      },
+      {
+        "id": "lot24_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.055406147035068,
+        "noise_standard_normal": -0.9445938529649326,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.430434460816242,
+        "noise_standard_normal": 0.43043446081624226,
+        "prediction": 0
+      },
+      {
+        "id": "lot24_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.428432858822415,
+        "noise_standard_normal": -0.5715671411775856,
+        "prediction": 0
+      },
+      {
+        "id": "lot24_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 14.82142494754553,
+        "noise_standard_normal": 1.3214249475455309,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.668098660931493,
+        "noise_standard_normal": 0.16809866093149237,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.63071622794632,
+        "noise_standard_normal": 0.6307162279463185,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.15028428389314,
+        "noise_standard_normal": 0.1502842838931388,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part01",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.912484618882528,
+        "noise_standard_normal": 0.41248461888252846,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.36239122613057,
+        "noise_standard_normal": 0.36239122613057045,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 7.238492612233896,
+        "noise_standard_normal": -2.7615073877661036,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.155558582795457,
+        "noise_standard_normal": 0.15555858279545773,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.932113244697184,
+        "noise_standard_normal": 0.9321132446971836,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.779262427735809,
+        "noise_standard_normal": -0.2207375722641921,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.488588262743708,
+        "noise_standard_normal": 0.488588262743708,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 12.551875844140827,
+        "noise_standard_normal": -0.9481241558591718,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 14.785323139441076,
+        "noise_standard_normal": -0.7146768605589241,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 15.24842731536708,
+        "noise_standard_normal": 1.248427315367079,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 7.866363063521437,
+        "noise_standard_normal": -2.1336369364785637,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.960937499511076,
+        "noise_standard_normal": -0.03906250048892515,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 16.415631201715517,
+        "noise_standard_normal": -1.0843687982844843,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.05678550317398,
+        "noise_standard_normal": 0.05678550317398023,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 10.957458399994291,
+        "noise_standard_normal": -1.0425416000057088,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 15.289308251693894,
+        "noise_standard_normal": 1.289308251693894,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 12.138323373654456,
+        "noise_standard_normal": 2.138323373654456,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.240716259202623,
+        "noise_standard_normal": 0.24071625920262207,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 15.437844536990827,
+        "noise_standard_normal": 1.9378445369908261,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part11",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 15.426493409401296,
+        "noise_standard_normal": -2.073506590598704,
+        "prediction": 0
+      },
+      {
+        "id": "lot27_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.36347400529663,
+        "noise_standard_normal": 0.36347400529663104,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 10.575949410880188,
+        "noise_standard_normal": -1.4240505891198119,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.732771490200728,
+        "noise_standard_normal": -0.2672285097992727,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part03",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.199359921409691,
+        "noise_standard_normal": -0.3006400785903083,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part04",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 17.59571587134855,
+        "noise_standard_normal": 2.09571587134855,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.006208326231702,
+        "noise_standard_normal": 0.006208326231702763,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.98496617331237,
+        "noise_standard_normal": -0.015033826687628522,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.556053944881635,
+        "noise_standard_normal": -0.44394605511836455,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 16.127692554648696,
+        "noise_standard_normal": 2.127692554648696,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.57599514275937,
+        "noise_standard_normal": -0.4240048572406304,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.370023597578792,
+        "noise_standard_normal": 0.3700235975787912,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.898551303789604,
+        "noise_standard_normal": 0.898551303789605,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.358980655360611,
+        "noise_standard_normal": 0.3589806553606105,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 13.820725470111148,
+        "noise_standard_normal": 1.820725470111148,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.187868481738962,
+        "noise_standard_normal": -0.8121315182610391,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 9.899004887173342,
+        "noise_standard_normal": -2.1009951128266575,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 12.621988202705204,
+        "noise_standard_normal": -1.3780117972947958,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.020017938890021,
+        "noise_standard_normal": 0.02001793889002178,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.537813860077042,
+        "noise_standard_normal": -0.46218613992295793,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 15.237714449377057,
+        "noise_standard_normal": 1.2377144493770562,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 11.177875014514607,
+        "noise_standard_normal": 1.177875014514607,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.962629838988368,
+        "noise_standard_normal": 0.962629838988368,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part11",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.63072476044539,
+        "noise_standard_normal": 0.13072476044538828,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part00",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 15.431484799082037,
+        "noise_standard_normal": 1.9314847990820372,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.012564256696768,
+        "noise_standard_normal": -0.9874357433032319,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part03",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.9937823879778,
+        "noise_standard_normal": 0.4937823879778005,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.422085675658604,
+        "noise_standard_normal": -0.5779143243413968,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.917038964254944,
+        "noise_standard_normal": 0.917038964254944,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.58145592187271,
+        "noise_standard_normal": -0.41854407812728983,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 10.690707493146888,
+        "noise_standard_normal": -1.3092925068531114,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.440945638380898,
+        "noise_standard_normal": -0.5590543616191028,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.47841194601022,
+        "noise_standard_normal": -0.5215880539897791,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part11",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 16.751348459051677,
+        "noise_standard_normal": -0.7486515409483239,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.002236539455192,
+        "noise_standard_normal": 0.0022365394551919367,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.314262077759638,
+        "noise_standard_normal": 0.31426207775963844,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 15.070198454390033,
+        "noise_standard_normal": 1.0701984543900334,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 8.669122203905738,
+        "noise_standard_normal": -1.3308777960942624,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.81908479184675,
+        "noise_standard_normal": -0.18091520815325052,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 15.529351088705123,
+        "noise_standard_normal": 1.5293510887051243,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.535451518098041,
+        "noise_standard_normal": -0.46454848190195885,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.85381341670795,
+        "noise_standard_normal": 0.8538134167079513,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.580802361006851,
+        "noise_standard_normal": 0.5808023610068513,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.179013280035662,
+        "noise_standard_normal": -0.8209867199643387,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.524546185737677,
+        "noise_standard_normal": 0.024546185737675925,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.170402860692905,
+        "noise_standard_normal": 0.17040286069290475,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 11.156187011630974,
+        "noise_standard_normal": 1.1561870116309743,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.004907292496267,
+        "noise_standard_normal": -0.49509270750373174,
+        "prediction": 1
+      },
+      {
+        "id": "lot31_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 11.032870594504136,
+        "noise_standard_normal": 1.032870594504135,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.573293245601969,
+        "noise_standard_normal": -0.4267067543980312,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 15.604707631576291,
+        "noise_standard_normal": 1.6047076315762914,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.521039120807506,
+        "noise_standard_normal": -0.4789608791924942,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.624672315422085,
+        "noise_standard_normal": -0.3753276845779145,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 8.674433586303026,
+        "noise_standard_normal": -1.3255664136969736,
+        "prediction": 1
+      },
+      {
+        "id": "lot31_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.123923979665218,
+        "noise_standard_normal": 0.12392397966521826,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.120805337384153,
+        "noise_standard_normal": 0.12080533738415308,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.483076903001246,
+        "noise_standard_normal": 0.4830769030012466,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.411910249777073,
+        "noise_standard_normal": -0.5880897502229276,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.522026567714464,
+        "noise_standard_normal": 0.5220265677144639,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part03",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 12.088561246604073,
+        "noise_standard_normal": -1.4114387533959283,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part04",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 17.078268075550422,
+        "noise_standard_normal": 1.5782680755504228,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.525036956506067,
+        "noise_standard_normal": 0.5250369565060664,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.528930395449233,
+        "noise_standard_normal": -0.47106960455076685,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.741449629801876,
+        "noise_standard_normal": -0.2585503701981243,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 12.249954037041825,
+        "noise_standard_normal": -1.2500459629581757,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 10.53691074491089,
+        "noise_standard_normal": -1.4630892550891106,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.18080134946746,
+        "noise_standard_normal": 0.18080134946746051,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.796730258401022,
+        "noise_standard_normal": 0.7967302584010213,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part01",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 13.638486215026264,
+        "noise_standard_normal": -1.8615137849737362,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 19.10127562547031,
+        "noise_standard_normal": 1.6012756254703115,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 8.758795354245056,
+        "noise_standard_normal": -1.241204645754944,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part04",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 16.129147346781302,
+        "noise_standard_normal": 0.6291473467813038,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.340700229486409,
+        "noise_standard_normal": 0.3407002294864082,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part06",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 12.273298029217807,
+        "noise_standard_normal": -1.2267019707821931,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 10.790682338633227,
+        "noise_standard_normal": -1.2093176613667727,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.049915795115204,
+        "noise_standard_normal": 0.04991579511520386,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.194602228541655,
+        "noise_standard_normal": -0.8053977714583456,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.321254992905141,
+        "noise_standard_normal": -0.6787450070948585,
+        "prediction": 0
+      },
+      {
+        "id": "lot34_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.788980765418424,
+        "noise_standard_normal": -0.21101923458157662,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.496863569270605,
+        "noise_standard_normal": 0.4968635692706051,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 12.70911340576283,
+        "noise_standard_normal": -1.2908865942371706,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.773795954694107,
+        "noise_standard_normal": 0.7737959546941059,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.684988109790382,
+        "noise_standard_normal": -0.31501189020961823,
+        "prediction": 0
+      },
+      {
+        "id": "lot34_part05",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 15.36766621278851,
+        "noise_standard_normal": -2.132333787211489,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part06",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 12.972551849412957,
+        "noise_standard_normal": -0.5274481505870422,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part07",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.682382084328589,
+        "noise_standard_normal": 0.1823820843285899,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part08",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.125181834380175,
+        "noise_standard_normal": -0.3748181656198241,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.565954410932719,
+        "noise_standard_normal": 0.06595441093271773,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.844646578238132,
+        "noise_standard_normal": -0.15535342176186837,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.799009720022422,
+        "noise_standard_normal": -0.20099027997757846,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.334175020590996,
+        "noise_standard_normal": -0.6658249794090044,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.043314202704416,
+        "noise_standard_normal": 0.04331420270441502,
+        "prediction": 0
+      },
+      {
+        "id": "lot35_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.434005442087653,
+        "noise_standard_normal": -0.06599455791234814,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.999576815348663,
+        "noise_standard_normal": -0.00042318465133710513,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.495603221646977,
+        "noise_standard_normal": 0.4956032216469778,
+        "prediction": 0
+      },
+      {
+        "id": "lot35_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.68138599116942,
+        "noise_standard_normal": -0.3186140088305814,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part07",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.972484033361,
+        "noise_standard_normal": 0.47248403336100153,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.29105151995545,
+        "noise_standard_normal": -0.7089484800445486,
+        "prediction": 0
+      },
+      {
+        "id": "lot35_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.917990306303494,
+        "noise_standard_normal": -0.08200969369650553,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 18.198124633532647,
+        "noise_standard_normal": 2.6981246335326468,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.183820692395697,
+        "noise_standard_normal": 0.1838206923956963,
+        "prediction": 0
+      }
+    ]
+  },
+  {
+    "sigma_nm": 2.0,
+    "objects": [
+      {
+        "id": "lot24_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.520651915988875,
+        "noise_standard_normal": -0.2396740420055622,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 19.844427346958334,
+        "noise_standard_normal": 1.172213673479167,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 9.02967458790039,
+        "noise_standard_normal": -1.4851627060498052,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 10.4371344989497,
+        "noise_standard_normal": -1.7814327505251506,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 8.110812294070135,
+        "noise_standard_normal": -0.9445938529649326,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.860868921632484,
+        "noise_standard_normal": 0.43043446081624226,
+        "prediction": 0
+      },
+      {
+        "id": "lot24_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 12.85686571764483,
+        "noise_standard_normal": -0.5715671411775856,
+        "prediction": 0
+      },
+      {
+        "id": "lot24_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 16.14284989509106,
+        "noise_standard_normal": 1.3214249475455309,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.836197321862985,
+        "noise_standard_normal": 0.16809866093149237,
+        "prediction": 1
+      },
+      {
+        "id": "lot24_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 15.261432455892637,
+        "noise_standard_normal": 0.6307162279463185,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.300568567786277,
+        "noise_standard_normal": 0.1502842838931388,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part01",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 16.324969237765057,
+        "noise_standard_normal": 0.41248461888252846,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.724782452261142,
+        "noise_standard_normal": 0.36239122613057045,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 4.476985224467793,
+        "noise_standard_normal": -2.7615073877661036,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.311117165590915,
+        "noise_standard_normal": 0.15555858279545773,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 11.864226489394367,
+        "noise_standard_normal": 0.9321132446971836,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.558524855471616,
+        "noise_standard_normal": -0.2207375722641921,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.977176525487415,
+        "noise_standard_normal": 0.488588262743708,
+        "prediction": 0
+      },
+      {
+        "id": "lot25_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 11.603751688281656,
+        "noise_standard_normal": -0.9481241558591718,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 14.070646278882151,
+        "noise_standard_normal": -0.7146768605589241,
+        "prediction": 1
+      },
+      {
+        "id": "lot25_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 16.49685463073416,
+        "noise_standard_normal": 1.248427315367079,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 5.732726127042873,
+        "noise_standard_normal": -2.1336369364785637,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.92187499902215,
+        "noise_standard_normal": -0.03906250048892515,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 15.331262403431031,
+        "noise_standard_normal": -1.0843687982844843,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.11357100634796,
+        "noise_standard_normal": 0.05678550317398023,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 9.914916799988582,
+        "noise_standard_normal": -1.0425416000057088,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 16.57861650338779,
+        "noise_standard_normal": 1.289308251693894,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 14.276646747308913,
+        "noise_standard_normal": 2.138323373654456,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.481432518405244,
+        "noise_standard_normal": 0.24071625920262207,
+        "prediction": 0
+      },
+      {
+        "id": "lot26_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 17.375689073981654,
+        "noise_standard_normal": 1.9378445369908261,
+        "prediction": 1
+      },
+      {
+        "id": "lot26_part11",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 13.352986818802592,
+        "noise_standard_normal": -2.073506590598704,
+        "prediction": 0
+      },
+      {
+        "id": "lot27_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.726948010593262,
+        "noise_standard_normal": 0.36347400529663104,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 9.151898821760376,
+        "noise_standard_normal": -1.4240505891198119,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.465542980401455,
+        "noise_standard_normal": -0.2672285097992727,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part03",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 12.898719842819384,
+        "noise_standard_normal": -0.3006400785903083,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part04",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 19.691431742697098,
+        "noise_standard_normal": 2.09571587134855,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.012416652463406,
+        "noise_standard_normal": 0.006208326231702763,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.969932346624743,
+        "noise_standard_normal": -0.015033826687628522,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.112107889763271,
+        "noise_standard_normal": -0.44394605511836455,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 18.255385109297393,
+        "noise_standard_normal": 2.127692554648696,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.151990285518739,
+        "noise_standard_normal": -0.4240048572406304,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.740047195157583,
+        "noise_standard_normal": 0.3700235975787912,
+        "prediction": 1
+      },
+      {
+        "id": "lot27_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 15.79710260757921,
+        "noise_standard_normal": 0.898551303789605,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.717961310721222,
+        "noise_standard_normal": 0.3589806553606105,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 15.641450940222295,
+        "noise_standard_normal": 1.820725470111148,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 12.375736963477921,
+        "noise_standard_normal": -0.8121315182610391,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 7.798009774346685,
+        "noise_standard_normal": -2.1009951128266575,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 11.243976405410407,
+        "noise_standard_normal": -1.3780117972947958,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.040035877780044,
+        "noise_standard_normal": 0.02001793889002178,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.075627720154085,
+        "noise_standard_normal": -0.46218613992295793,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 16.475428898754114,
+        "noise_standard_normal": 1.2377144493770562,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 12.355750029029213,
+        "noise_standard_normal": 1.177875014514607,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 13.925259677976737,
+        "noise_standard_normal": 0.962629838988368,
+        "prediction": 1
+      },
+      {
+        "id": "lot28_part11",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.76144952089078,
+        "noise_standard_normal": 0.13072476044538828,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part00",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 17.362969598164074,
+        "noise_standard_normal": 1.9314847990820372,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 12.025128513393536,
+        "noise_standard_normal": -0.9874357433032319,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part03",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 14.487564775955601,
+        "noise_standard_normal": 0.4937823879778005,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 10.844171351317206,
+        "noise_standard_normal": -0.5779143243413968,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 15.834077928509888,
+        "noise_standard_normal": 0.917038964254944,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.16291184374542,
+        "noise_standard_normal": -0.41854407812728983,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 9.381414986293777,
+        "noise_standard_normal": -1.3092925068531114,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 8.881891276761795,
+        "noise_standard_normal": -0.5590543616191028,
+        "prediction": 1
+      },
+      {
+        "id": "lot29_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 10.956823892020441,
+        "noise_standard_normal": -0.5215880539897791,
+        "prediction": 0
+      },
+      {
+        "id": "lot29_part11",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 16.002696918103354,
+        "noise_standard_normal": -0.7486515409483239,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.004473078910383,
+        "noise_standard_normal": 0.0022365394551919367,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.628524155519276,
+        "noise_standard_normal": 0.31426207775963844,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 16.140396908780065,
+        "noise_standard_normal": 1.0701984543900334,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 7.338244407811475,
+        "noise_standard_normal": -1.3308777960942624,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.638169583693498,
+        "noise_standard_normal": -0.18091520815325052,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 17.058702177410247,
+        "noise_standard_normal": 1.5293510887051243,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.070903036196082,
+        "noise_standard_normal": -0.46454848190195885,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 13.707626833415903,
+        "noise_standard_normal": 0.8538134167079513,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 15.161604722013703,
+        "noise_standard_normal": 0.5808023610068513,
+        "prediction": 0
+      },
+      {
+        "id": "lot30_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 8.358026560071323,
+        "noise_standard_normal": -0.8209867199643387,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.549092371475352,
+        "noise_standard_normal": 0.024546185737675925,
+        "prediction": 1
+      },
+      {
+        "id": "lot30_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.34080572138581,
+        "noise_standard_normal": 0.17040286069290475,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 12.312374023261949,
+        "noise_standard_normal": 1.1561870116309743,
+        "prediction": 1
+      },
+      {
+        "id": "lot31_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 16.509814584992537,
+        "noise_standard_normal": -0.49509270750373174,
+        "prediction": 1
+      },
+      {
+        "id": "lot31_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 12.06574118900827,
+        "noise_standard_normal": 1.032870594504135,
+        "prediction": 1
+      },
+      {
+        "id": "lot31_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.146586491203937,
+        "noise_standard_normal": -0.4267067543980312,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 17.209415263152582,
+        "noise_standard_normal": 1.6047076315762914,
+        "prediction": 1
+      },
+      {
+        "id": "lot31_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.042078241615013,
+        "noise_standard_normal": -0.4789608791924942,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.24934463084417,
+        "noise_standard_normal": -0.3753276845779145,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 7.348867172606052,
+        "noise_standard_normal": -1.3255664136969736,
+        "prediction": 1
+      },
+      {
+        "id": "lot31_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.247847959330436,
+        "noise_standard_normal": 0.12392397966521826,
+        "prediction": 0
+      },
+      {
+        "id": "lot31_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.241610674768307,
+        "noise_standard_normal": 0.12080533738415308,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 10.966153806002493,
+        "noise_standard_normal": 0.4830769030012466,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 10.823820499554145,
+        "noise_standard_normal": -0.5880897502229276,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 15.044053135428928,
+        "noise_standard_normal": 0.5220265677144639,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part03",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 10.677122493208143,
+        "noise_standard_normal": -1.4114387533959283,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part04",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 18.656536151100845,
+        "noise_standard_normal": 1.5782680755504228,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 15.050073913012133,
+        "noise_standard_normal": 0.5250369565060664,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.057860790898467,
+        "noise_standard_normal": -0.47106960455076685,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.482899259603752,
+        "noise_standard_normal": -0.2585503701981243,
+        "prediction": 0
+      },
+      {
+        "id": "lot32_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 10.999908074083649,
+        "noise_standard_normal": -1.2500459629581757,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 9.073821489821778,
+        "noise_standard_normal": -1.4630892550891106,
+        "prediction": 1
+      },
+      {
+        "id": "lot32_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.36160269893492,
+        "noise_standard_normal": 0.18080134946746051,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 11.593460516802043,
+        "noise_standard_normal": 0.7967302584010213,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part01",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 11.776972430052528,
+        "noise_standard_normal": -1.8615137849737362,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 20.702551250940623,
+        "noise_standard_normal": 1.6012756254703115,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 7.517590708490112,
+        "noise_standard_normal": -1.241204645754944,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part04",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 16.758294693562608,
+        "noise_standard_normal": 0.6291473467813038,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.681400458972817,
+        "noise_standard_normal": 0.3407002294864082,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part06",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 11.046596058435615,
+        "noise_standard_normal": -1.2267019707821931,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part07",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 9.581364677266455,
+        "noise_standard_normal": -1.2093176613667727,
+        "prediction": 1
+      },
+      {
+        "id": "lot33_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.099831590230409,
+        "noise_standard_normal": 0.04991579511520386,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 8.38920445708331,
+        "noise_standard_normal": -0.8053977714583456,
+        "prediction": 0
+      },
+      {
+        "id": "lot33_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 10.642509985810284,
+        "noise_standard_normal": -0.6787450070948585,
+        "prediction": 0
+      },
+      {
+        "id": "lot34_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.577961530836847,
+        "noise_standard_normal": -0.21101923458157662,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.99372713854121,
+        "noise_standard_normal": 0.4968635692706051,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part02",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 11.41822681152566,
+        "noise_standard_normal": -1.2908865942371706,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 11.547591909388212,
+        "noise_standard_normal": 0.7737959546941059,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part04",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.369976219580764,
+        "noise_standard_normal": -0.31501189020961823,
+        "prediction": 0
+      },
+      {
+        "id": "lot34_part05",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 13.235332425577022,
+        "noise_standard_normal": -2.132333787211489,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part06",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 12.445103698825916,
+        "noise_standard_normal": -0.5274481505870422,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part07",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 15.86476416865718,
+        "noise_standard_normal": 0.1823820843285899,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part08",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 16.75036366876035,
+        "noise_standard_normal": -0.3748181656198241,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part09",
+        "target": 1,
+        "true_torque_nm": 13.5,
+        "measured_torque_nm": 13.631908821865435,
+        "noise_standard_normal": 0.06595441093271773,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part10",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 11.689293156476264,
+        "noise_standard_normal": -0.15535342176186837,
+        "prediction": 1
+      },
+      {
+        "id": "lot34_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 13.598019440044844,
+        "noise_standard_normal": -0.20099027997757846,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part00",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 8.668350041181991,
+        "noise_standard_normal": -0.6658249794090044,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part01",
+        "target": 0,
+        "true_torque_nm": 12.0,
+        "measured_torque_nm": 12.08662840540883,
+        "noise_standard_normal": 0.04331420270441502,
+        "prediction": 0
+      },
+      {
+        "id": "lot35_part02",
+        "target": 1,
+        "true_torque_nm": 17.5,
+        "measured_torque_nm": 17.368010884175305,
+        "noise_standard_normal": -0.06599455791234814,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part03",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.999153630697325,
+        "noise_standard_normal": -0.00042318465133710513,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part05",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.991206443293956,
+        "noise_standard_normal": 0.4956032216469778,
+        "prediction": 0
+      },
+      {
+        "id": "lot35_part06",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.362771982338836,
+        "noise_standard_normal": -0.3186140088305814,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part07",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 16.444968066722,
+        "noise_standard_normal": 0.47248403336100153,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part08",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 12.582103039910903,
+        "noise_standard_normal": -0.7089484800445486,
+        "prediction": 0
+      },
+      {
+        "id": "lot35_part09",
+        "target": 1,
+        "true_torque_nm": 10.0,
+        "measured_torque_nm": 9.835980612606988,
+        "noise_standard_normal": -0.08200969369650553,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part10",
+        "target": 1,
+        "true_torque_nm": 15.5,
+        "measured_torque_nm": 20.896249267065294,
+        "noise_standard_normal": 2.6981246335326468,
+        "prediction": 1
+      },
+      {
+        "id": "lot35_part11",
+        "target": 0,
+        "true_torque_nm": 14.0,
+        "measured_torque_nm": 14.367641384791392,
+        "noise_standard_normal": 0.1838206923956963,
+        "prediction": 0
+      }
+    ]
+  }
+]
