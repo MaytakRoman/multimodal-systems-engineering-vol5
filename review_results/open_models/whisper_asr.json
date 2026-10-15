@@ -1,0 +1,28 @@
+{
+  "model": "openai/whisper-tiny",
+  "revision": "169d4a4341b33bc18d8881c4b69c2e104e1cc0af",
+  "audio_url": "https://raw.githubusercontent.com/openai/whisper/v20240930/tests/jfk.flac",
+  "audio_sha256": "63a4b1e4c1dc655ac70961ffbf518acd249df237e5a0152faae9a4a836949715",
+  "original_sample_rate": 44100,
+  "used_sample_rate": 16000,
+  "duration_seconds": 11.0,
+  "reference": "And so my fellow Americans ask not what your country can do for you ask what you can do for your country",
+  "hypothesis": " And so my fellow Americans ask not what your country can do for you ask what you can do for your country.",
+  "normalization": "lowercase, alphabetic word tokens, punctuation ignored",
+  "reference_words": 22,
+  "edit_distance": 0,
+  "wer": 0.0,
+  "generation_seconds": 0.7028152409999961,
+  "rtf": 0.06389229463636328,
+  "scope": "one public English recording; not a corpus benchmark or a Russian ASR evaluation",
+  "meta": {
+    "python": "3.12.14",
+    "torch": "2.5.1+cpu",
+    "numpy": "2.5.4",
+    "transformers": "4.46.3",
+    "threads": 1,
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+    "processor": "x86_64",
+    "cpu": "\t: INTEL(R) XEON(R) PLATINUM 8573C"
+  }
+}

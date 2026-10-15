@@ -1,0 +1,71 @@
+{
+  "model": "openai/clip-vit-base-patch32",
+  "revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "labels": [
+    "astronaut",
+    "coffee",
+    "cat"
+  ],
+  "texts": [
+    "a photo of an astronaut",
+    "a photo of a cup of coffee",
+    "a photo of a cat"
+  ],
+  "cosine": [
+    [
+      0.2695971131324768,
+      0.14964474737644196,
+      0.15536049008369446
+    ],
+    [
+      0.1876993030309677,
+      0.30201834440231323,
+      0.20133207738399506
+    ],
+    [
+      0.21307164430618286,
+      0.204156756401062,
+      0.28268560767173767
+    ]
+  ],
+  "logits": [
+    [
+      26.9597110748291,
+      14.964475631713867,
+      15.536049842834473
+    ],
+    [
+      18.76993179321289,
+      30.20183753967285,
+      20.133211135864258
+    ],
+    [
+      21.307167053222656,
+      20.415678024291992,
+      28.26856231689453
+    ]
+  ],
+  "top1": [
+    0,
+    1,
+    2
+  ],
+  "correct": 3,
+  "n": 3,
+  "source": "scikit-image 0.25.2 bundled astronaut.png, coffee.png, chelsea.png",
+  "image_sha256": {
+    "astronaut.png": "88431cd9653ccd539741b555fb0a46b61558b301d4110412b5bc28b5e3ea6cb5",
+    "coffee.png": "cc02f8ca188b167c775a7101b5d767d1e71792cf762c33d6fa15a4599b5a8de7",
+    "chelsea.png": "596aa1e7cb875eb79f437e310381d26b338a81c2da23439704a73c4651e8c4bb"
+  },
+  "meta": {
+    "python": "3.12.14",
+    "torch": "2.5.1+cpu",
+    "numpy": "2.5.4",
+    "transformers": "4.46.3",
+    "threads": 1,
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+    "processor": "x86_64",
+    "cpu": "\t: INTEL(R) XEON(R) PLATINUM 8573C"
+  }
+}
